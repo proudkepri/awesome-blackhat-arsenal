@@ -1,0 +1,12 @@
+# For scraping modern dynamic sites (Selenium)
+selenium>=4.20.0
+
+# For scraping legacy static HTML (BeautifulSoup)
+beautifulsoup4>=4.12.3
+requests>=2.31.0
+
+# For loading .env (if used for keys in future)
+python-dotenv>=1.0.1
+
+# Optional: JSON pretty print fallback
+orjson; platform_system != "Windows"
