@@ -190,7 +190,6 @@ main_readme.extend([
     "## 📄 License",
     "[MIT](LICENSE)",
     "---",
-    "> Inspired by [Awesome Lists](https://awesome.re) and powered by the Black Hat Arsenal community."
 ])
 
 # 💾 Write Main README
