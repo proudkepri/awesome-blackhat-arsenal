@@ -102,7 +102,7 @@ def get_safe_filename_from_url(url):
 # ------------------------------------------------------------
 # 📦 Main function to scrape from a .txt file of schedule URLs
 # ------------------------------------------------------------
-def scrape_all_from_txt(link_file, save_dir="Data/Canada"):
+def scrape_all_from_txt(link_file, save_dir="Data/Asia"):
     os.makedirs(save_dir, exist_ok=True)
 
     # Read event URLs from the text file (one URL per line)
@@ -138,4 +138,4 @@ def scrape_all_from_txt(link_file, save_dir="Data/Canada"):
 # ------------------------------------------------------------
 if __name__ == "__main__":
     # Example: points to URLs listed in `NewLinks/Canada.txt`
-    scrape_all_from_txt("NewLinks/Canada.txt")
+    scrape_all_from_txt("NewLinks/Asia.txt")

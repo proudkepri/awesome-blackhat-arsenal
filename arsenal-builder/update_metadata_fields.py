@@ -10,13 +10,14 @@ region_map = {
     "Europe": ("eu", "Europe"),
     "USA": ("us", "USA"),
     "Asia": ("asia", "Asia"),
+    "Data\Asia": ("asia", "Asia"),
     "Canada": ("sector", "Canada")
 }
 
 # ------------------------------------------------------------
 # 📁 Set your working directory here (must match a region_map key)
 # ------------------------------------------------------------
-folder_path = "Canada"  # Change this to "Europe", "USA", etc. as needed
+folder_path = "Data\Asia"  # Change this to "Europe", "USA", etc. as needed
 
 # Validate folder
 if folder_path not in region_map:
@@ -29,7 +30,8 @@ region_code, region_name = region_map[folder_path]
 # 🔍 Pattern: Matches filenames like 'sector-13_arsenal_schedule_index.html.json'
 # Extracts the year component (e.g., 13 → 2013)
 # ------------------------------------------------------------
-pattern = re.compile(rf'{region_code}-(\d{{4}})_arsenal_schedule_index\.html\.json', re.IGNORECASE)
+
+pattern = re.compile(rf'{region_code}-(\d{{2}})_arsenal_schedule_index\.html\.json', re.IGNORECASE)
 
 # ------------------------------------------------------------
 # 🔄 Loop through each file in the selected folder

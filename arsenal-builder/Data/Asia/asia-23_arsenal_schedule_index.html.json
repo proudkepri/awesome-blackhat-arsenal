@@ -1,0 +1,1193 @@
+[
+  {
+    "tool_name": "AiCEF: An AI-powered Cyber Exercise Content Generation Framework",
+    "tool_id": "31299",
+    "speakers": [
+      "Constantinos Patsakis",
+      "Alexandros Zacharis",
+      "Razvan Gavrila"
+    ],
+    "tracks": [
+      "Track: Human Factors"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "The core idea of AiCEF, is to harness the intelligence that is available from online and MISP reports, as well as threat groups' activities, arsenal etc., from, e.g., MITRE, to create relevant and timely cybersecurity exercises. To this end, we have developed a specialised ontology called Cyber Exercise Scenario Ontology (CESO), which extends STIX [2]. The core idea is to map reports; both from online resources and MISP, via a common ontology to graphs. This way, we abstract the events from the reports in a machine-readable form. The produced graphs can be infused with additional intelligence, e.g. the threat actor profile from MITRE, also mapped in our ontology. While this may fill gaps that would be missing from a report, one can also manipulate the graph to create custom and unique models. Finally, we exploit transformer-based language models like GPT to convert the graph into text that can serve as the scenario of a cybersecurity exercise.\nWe have tested and validated AiCEF with a group of experts in cybersecurity exercises, and the results clearly show that AiCEF significantly augments the capabilities in creating timely and relevant cybersecurity exercises in terms of both quality and time.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "APKHunt | OWASP MASVS Static Analyzer",
+    "tool_id": "31003",
+    "speakers": [
+      "Sumit Kalaria",
+      "Mrunal Chawda"
+    ],
+    "tracks": [
+      "Track: Code Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "APKHunt is a comprehensive static code analysis tool for Android apps that is based on the OWASP MASVAS framework. The OWASP MASVS (Mobile Application Security Verification Standard) is the industry standard for mobile app security. APKHunt is intended primarily for mobile app developers and security testers, but it can be used by anyone to identify and address potential security vulnerabilities in their code.\n\nWith APKHunt, mobile software architects or developers can conduct thorough code reviews to ensure the security and integrity of their mobile applications, while security testers can use the tool to confirm the completeness and consistency of their test results. Whether you're a developer looking to build secure apps or an infosec tester charged with ensuring their security, APKHunt can be an invaluable resource for your work.\n\nKey features of APKHunt:\n- Scan coverage: Covers most of the SAST (Static Application Security Testing) related test cases of the OWASP MASVS framework.\n- Optimised scanning: Specific rules are designed to check for particular security sinks, resulting in an almost accurate scanning process.\n- Low false-positive rate: Designed to pinpoint and highlight the exact location of potential vulnerabilities in the source code.\n- Output format: Results are provided in a TXT file format for easy readability for end-users.\n\nCurrent Limitation:\n- Supporting OS/Language: Capable of scanning the source code of an android APK file and is only supported on Linux environments.\n\nUpcoming Features:\n- Scanning of multiple APK files at the same time\n- More output format such as HTML\n- Integration with third-party tools",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "CQ PrivilegeEscalation Toolkit: Effective Tools for Windows Privilege Escalation Gamers",
+    "tool_id": "31280",
+    "speakers": [
+      "Paula Januszkiewicz",
+      "Mike Jankowski-Lorek"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "CQURE PE Toolkit is focused on Windows Privilege Escalation tactics and techniques created to help to improve every privilege escalation game. This toolkit guides you through the process of exploiting a bug or design flaw in an operating system or software to gain elevated privileges to resources that are normally highly protected. Once you know what to look for and what to ignore, Privilege Escalation will become so much easier. This powerful toolkit is tremendously useful for those who are interested in penetration testing and professionals engaged in pen-testing who work in the areas of databases, systems, networks, or application administration.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Hands-on RFID: Sniff it, crack it, clone it",
+    "tool_id": "33580",
+    "speakers": [
+      "Kelvin Wong",
+      "Dennis Goh"
+    ],
+    "tracks": [
+      "Track: Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Interactive Kubernetes Security Learning Playground - Kubernetes Goat",
+    "tool_id": "30924",
+    "speakers": [
+      "Madhu Akula"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "Intermediate",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Kubernetes Goat is an interactive Kubernetes security learning playground. It has intentionally vulnerable by design scenarios to showcase the common misconfigurations, real-world vulnerabilities, and security issues in Kubernetes clusters, containers, and cloud native environments.\n\nIt's tough to learn and understand Kubernetes security safely, practically, and efficiently. So here we come to solve this problem not only for security researchers but also to showcase how we can leverage it for attackers, defenders, developers, DevOps teams, and anyone interested in learning Kubernetes security. We are also helping products & vendors to showcase their product or tool's effectiveness by using these playground scenarios and also help them to use this to educate their customers and organizations. This project is a place to share knowledge with the community in well-documented quality content in hands-on scenario approaches.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "KernelGoat",
+    "tool_id": "31326",
+    "speakers": [
+      "Shivankar Madaan"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "Advanced",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "\"KernelGoat is a 'Vulnerable by Design' Linux kernel environment to learn and practice Kernel security issues\"",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "MemTracer: Hunting for Forensic Artifacts in Memory",
+    "tool_id": "31255",
+    "speakers": [
+      "May Alsaif"
+    ],
+    "tracks": [
+      "Track: Data Forensics and Incident Response"
+    ],
+    "skill_level": "Advanced",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "MemTracer is a tool that offers live memory analysis capabilities, allowing digital forensic practitioners to discover and investigate stealthy attack traces hidden in memory.\nAdvanced persistence threat (APT) adversaries use stealthy attack tactics that only leave volatile short-lived memory evidence. The reflective Dynamic-Link Library (DLL) load technique is considered one of the stealthiest attack techniques. Reflective DLL load allows adversaries to load malicious code directly into memory, rather than loading a file from the disk. Thus, reflective\nDLL load leaves no digital evidence present on the disk. The malicious DLL continues to execute as long as the compromised process is running. Terminating a compromised process leads to the removal of the malicious DLL from memory, and the release of the memory region back to the pool for reallocation. Therefore, memory needs to be examined periodically in order to detect the existence of a malicious DLL that loaded reflectively into memory.\nLoading DLL reflectively produces an unusual memory region's characteristics that can indicate its existence. The MemTracer tool was developed to efficiently scan memory regions to detect reflective DLL loading symptoms. Mainly, MemTracer aims to detect native .NET framework DLLs that are loaded reflectively. Additionally, MemTracer provides the ability to search for a specific loaded DLL by name, which can retrieve the list of processes that have abnormally loaded the specified module for further investigation.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Mr.SIP: The Ultimate SIP-Based Penetration Testing Tool for VoIP Systems",
+    "tool_id": "31308",
+    "speakers": [
+      "Ismail Melih Tas",
+      "Neslisah Topcu"
+    ],
+    "tracks": [
+      "Track: Network Attacks"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Mr.SIP is a cutting-edge penetration testing tool designed specifically for VoIP systems. It is the most advanced and comprehensive offensive security tool available in the market for VoIP systems. Developed to assist security experts and system administrators in assessing the security of their VoIP systems and evaluating potential risks, Mr.SIP Pro offers a wide range of features to aid in this process.\n\nMr.SIP Pro enables users to discover VoIP servers and active users on the network, intercept and manipulate call data, crack user passwords, and identify and report on security vulnerabilities, exploits, and misconfigurations. It also provides a framework for creating advanced, stateful attack scenarios, such as stateful TDoS (Telephony Denial of Service) attacks. Additionally, it allows users to test the server's protocol stack for undiscovered zero-day vulnerabilities by sending irregular messages. With Mr.SIP Pro, security experts and system administrators can have complete visibility and control over their VoIP systems, enabling them to proactively identify and mitigate potential threats.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Nightingale: Docker for Pentesters",
+    "tool_id": "30337",
+    "speakers": [
+      "Raja Nagori"
+    ],
+    "tracks": [
+      "Track: Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Have you ever been encounter where you configured the security virtual envieonment in the virtualbox and after someday the VM got crashed. All your configuration, tool setup, important information about the taget, POC's and what not, all will be gone and you can't recover the same.\n\nWith the same problem, I created the Nightingale based on the docker technology which provides you the exact security environment where you can expreicne the tools which a pentesters required at the time of pentesting. Adding to this, you no need to worry about your data, configuration and all other important. Nightingale will automatically restore the configuration once the new container will be up.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Osiris-Framework: A Scalable Tool for Penetration Testing and Vulnerability Assessment on Cross-Platform Systems",
+    "tool_id": "31315",
+    "speakers": [
+      "Luis Eduardo Jacome Valencia",
+      "Samir Sanchez Garnica"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Abstract\u2014Osiris-Framework V1.337 is an open-source project designed to assist security researchers in penetration testing and vulnerability assessment exercises through unique features such as 0-days and helpers, custom-made modules, and the ability to provide valuable information about vulnerabilities in a specific target. Additionally, the framework can be executed in multi-platform systems which allows security researchers to perform audits from geographically widespread locations.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool",
+    "tool_id": "30612",
+    "speakers": [
+      "Minghang Shen",
+      "Chaoyang Lin",
+      "Minghao Lin",
+      "Qi Fan"
+    ],
+    "tracks": [
+      "Track: Hardware/Embedded"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "RTOS (Real-Time Operating Systems) are widely used in critical fields such as aerospace, transportation, communication infrastructure, medical devices, oil industry, and industrial robots due to their reliability and stability. However, the real-time nature of RTOS makes the analysis threshold high, resulting in limited security research tools compared to time-sharing operating systems.\n\n\nRTHunter is an efficient RTOS reverse symbol recovery and vulnerability scanning tool. It collects a large number of RTOS projects and mainstream network framework projects in multiple versions, builds a firmware resource library covering dozens of mainstream RTOS systems, and builds thousands of function features and historical vulnerability function features through trace-based information methods. And by solving the slow recognition speed and accuracy problem of bindiff through trace-based fuzzy feature matching method. RTHunter can achieve more than 50% recognition accuracy on mainstream RTOS routers, and has found supply chain vulnerabilities affecting multiple brands and dozens of RTOS devices through recorded vulnerability features. RTHunter can also use personal reverse information to fill the entire database and form a custom efficient tool.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Slips: Free Software Machine Learning Tool for Network Intrusion Prevention System",
+    "tool_id": "30823",
+    "speakers": [
+      "Alya Gomaa",
+      "Sebastian Garcia"
+    ],
+    "tracks": [
+      "Track: Network Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Slips is the first free software, behavioral-based, intrusion prevention system to use machine learning to detect attacks in the network. It is a modular system that profiles the behavior of devices and performs detections in time windows. Slips' modules detect a range of attacks both to and from the protected devices.\n\nSlips detect attacks to and from devices protecting your network but also focusing on infected computers. All the analyses are reevaluated in time windows so computers can be unblocked if they are cleaned. Avoiding permanent detections when the risk is gone.\n\nSlips manages Threat Intelligence feeds (45+ external feeds, including our own), the enrichment with WHOIS/ASN/geo location/mac vendors. Allowing it to detect MITM attacks, scans, exfiltration, port scans, long connections, data uploads, unknown ports, connections without DNS, malicious JA3/JA3S, TLS certificates, etc.\n\nAn LSTM neural network detects C&C channels, a Random Forest is used to detect attacks on flows, and anomaly detection methods are used on the traffic. A final ML ensembling algorithm is used for blocking decisions and alert generation.\n\nSlips reads packets from an interface, PCAPs, Suricata, Zeek, Argus and Nfdump. It generates alerts in text, json, and using the STIX/TAXII protocol, sending to CESNET servers using IDEA0 format, or to Slack.\n\nSlips is the first IDS to use its own local P2P network to find other Slips peers and exchange data about detection using trust models that are resilient to adversarial peers.\n\nSlips has 2 interfaces, the Kalipso Node.js and a web interface allows the analysts to see the profiles' behaviors and detections performed by Slips modules directly in the console. Kalipso displays the flows of each profile and time window and compares those connections in charts/bars. It also summarizes the whois/asn/geocountry information for each IP in your traffic.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "StegoWiper+: A Powerful and Flexible Active Attack for Disrupting Stegomalware and Advanced Stegography",
+    "tool_id": "31291",
+    "speakers": [
+      "Alfonso Mu\u00f1oz",
+      "Manuel Urue\u00f1a"
+    ],
+    "tracks": [
+      "Track: Malware Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Over the last 10 years, many threat groups have employed stegomalware or other steganography-based techniques to attack organizations from all sectors and in all regions of the world. Some examples are: APT15/Vixen Panda, APT23/Tropic Trooper, APT29/Cozy Bear, APT32/OceanLotus, APT34/OilRig, APT37/ScarCruft, APT38/Lazarus Group, Duqu Group, Turla, Vawtrack, Powload, Lokibot, Ursnif, IceID, etc.Our research shows that most groups are employing very simple techniques (at least from an academic perspective) and known tools to circumvent perimeter defenses, although more advanced groups are also using steganography to hide C&C communication and data exfiltration. We argue that this lack of sophistication is not due to the lack of knowledge in steganography (some APTs have already experimented with advanced algorithms) but simply because organizations are not able to defend themselves, even against the simplest steganography techniques.\n\nDuring the demonstration we will show the practical limitations of applying existing automated steganalysis techniques for companies that want to prevent infections or information theft by these threat actors. For this reason, we have created stegoWiper, a tool to blindly disrupt any image-based stegomalware, attacking the weakest point of all steganography algorithms: their robustness. We'll show that it is capable of disrupting all steganography techniques and tools (Invoke-PSImage, F5, Steghide, openstego, ...) employed nowadays. In fact, the more sophisticated a steganography technique is, the more disruption stegoWiper produces. Moreover, our active attack allows us to disrupt any steganography payload from all the images exchanged by an organization by means of a web proxy ICAP (Internet Content Adaptation Protocol) service, in real time and without having to identify which images contain hidden data first.\n\nAfter our presentation at BlackHat USA 2022 Arsenal we have been working on supporting, disrupting, state-of-the-art advanced algorithms available in the academic literature, based on matrix encryption, wet-papers, etc. (e.g. Hill, J-Uniward, Hugo). Especially we have paid attention to the YASS algorithm (https://pboueke.github.io/CryptoStego/) resistant to numerous active attacks and commercial CDR-type software. Finally our tool is able to defeat them.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Unprotect Project: Malware Evasion Techniques",
+    "tool_id": "30952",
+    "speakers": [
+      "Thomas Roccia"
+    ],
+    "tracks": [
+      "Track: Malware Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Malware evasion consists of techniques used by malware to bypass security in place, circumvent automated and static analysis as well as avoiding detection and harden reverse engineering. There is a broad specter of techniques that can be used. In this talk we will review the history of malware evasion techniques, understand the latest trends currently used by threat actors and bolster your security analysis skills by getting more knowledge about evasion mechanisms.\n\nWe will present the latest major update of the Unprotect Project an open-source documentation about malware evasion techniques. The goal will be to present the project and see how we can leverage it for use cases, including threat intelligence, malware analysis, strengthen security, train people, and extend the Mitre ATT&CK matrix. Over the years it has become a well renowned place for security researchers. During this talk we will review some of the most important update.\n\nThis presentation can benefit both Blue and Red Team as it will provide knowledge and information on how malware can bypass your security in place and stay under the radar. You will learn about the intrinsic mechanisms used by attackers to compromise you without you even realizing it!",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "AADInternals: The Swiss Army Knife for Azure AD & M365",
+    "tool_id": "30857",
+    "speakers": [
+      "Nestori Syynimaa"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "AADInternals is a popular attacking and administration toolkit for Azure Active Directory and Microsoft 365, used by red and blue teamers worldwide. The toolkit is written in PowerShell, making it easy to install and use by anyone familiar with the Microsoft ecosystem. It has been downloaded from PowerShell gallery over 20 000 times and it is listed in MITRE ATT&CK tools.\n\nWith AADInternals, one can create backdoors, perform elevation of privilege and denial-of-service attacks, extract information, and even bypass multi-factor authentication (MFA).\n\nJoin this session to see in action the research results conducted during the past three years, including a new technique to extract AD FS signing certificates remotely, exporting certificates of AAD joined devices, gathering OSINT, and more!",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "MORF - Mobile Reconnaissance Framework",
+    "tool_id": "31292",
+    "speakers": [
+      "Amrudesh Balakrishnan",
+      "Abhishek JM",
+      "Himanshu Das"
+    ],
+    "tracks": [
+      "Track: Android",
+      "iOS and Mobile Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "MORF - MObile Recon Framework is a powerful, lightweight and platform-independent offensive mobile security tool designed to help hackers and developers identify and address sensitive information within mobile applications. It is like a swiss army knife for mobile application security, as it uses heuristics-based techniques to search through the codebase, creating a comprehensive repository of sensitive information it finds. This makes it easy to identify and address any potential sensitive data leak.\n\nOne of the prominent features of MORF is its ability to automatically detect and extract sensitive information from various sources, including source code, resource files, and native libraries. It also collects a large amount of metadata from the application, which can be used to create data science models that can predict and detect potential security threats. MORF also looks into all previous versions of the application, bringing transparency to the security posture of the application.\n\nThe tool boasts a user-friendly interface and an easy-to-use reporting system that makes it simple for hackers and security professionals to review and address any identified issues. With MORF, you can know that your mobile application's security is in good hands.\n\nOverall, MORF is a swiss army knife for offensive mobile application security, as it saves a lot of time, increases efficiency, enables a data-driven approach, allows for transparency in the security posture of the application by looking into all previous versions, and minimizes the risk of data breaches related to sensitive information, all this by using heuristics-based techniques.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "N3XT G3N WAF 2.0",
+    "tool_id": "30872",
+    "speakers": [
+      "Pengfei Yu",
+      "Bosen Zhang"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Previously, we introduced N3XT G3N WAF (NGWAF) 1.0 at BHUSA 2022. The novel WAF 3.0 tool that seeks to relieve complex and difficult WAF detection mechanism with detection utilising a Sequential Neural Network (SNN) and traps attackers through a custom honeypotted environment. These assets are all dockerised for scalability.\n\nHowever, further experiments have proven that a SNN may not be the most optimal when it comes down to contextualised defence as it processes information in a step by step and sequential manner. It gets relatively cumbersome and ineffective detecting chained or contexualised attacks. Both of which are extremely common in today's attacks.\n\nThus, we took another approach by swapping out our \"brains\". We revamped the SNN and went with a Recurrent Neural Network (RNN). The RNN is a much better choice for contextualised defense as the output of each layer is fed back as the input of the same layer. Thus, this allows the network to maintain a \"memory\" of the data it has processed. Our latest model is a RNN with a bi-directional LSTM module, it has an accuracy of 0.995 and a f1 score of 0.993.\n\nWe have also upgraded NGWAF's scalability in model deployment, model maintenance and the overall detection pipeline. This is all done with cloudifying the operations of the entire Machine Learning detection module. As compared to version 1.0 where users have to install and run the entire framework on their local system, NGWAF 2.0 has employed Infrastructure-as-Code (IaC) scripts, which auto-deploys the machine learning model's training & maintenance pipeline onto AWS resources (Sagemaker). The detection module has also been shifted from local deployment to AWS Sagemaker where we are able to standardise the hardware utilised for the ML model. This also allows further decoupling of the detection module from the rest of the system and allow for greater customisability.\n\nBHUSA 2022 - Version 01: (https://www.blackhat.com/us-22/arsenal/schedule/index.html#nxt-gn-waf-ml-based-waf-with-retraining-and-detainment-through-honeypots-26609)",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "reNgine: An Open-Source Automated Reconnaissance/Attack Surface Management tool",
+    "tool_id": "31305",
+    "speakers": [
+      "Yogesh Ojha"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "CASPR - Code Trust Auditing Framework",
+    "tool_id": "31318",
+    "speakers": [
+      "Atharva Chincholkar",
+      "Srishti Chaubey"
+    ],
+    "tracks": [
+      "Track: Code Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Prediction System for Lateral Movement Based on ATT&CK Using Sysmon",
+    "tool_id": "31061",
+    "speakers": [
+      "Yukihiro Kozai",
+      "Koki Watarai",
+      "Takuho Mitsunaga"
+    ],
+    "tracks": [
+      "Track: Data Forensics and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "This tool converts Windows logs collected by Sysmon into MITER ATT&CK Technique and allows us to refer to attack types and progress based on the ATT&CK structure.\nIn a company network, when we detect that a device has been infected with malware, it is not easy to find other infected devices, and we consume a lot of human resources and time. With this tool, we can grasp the possibility of infection to other devices and the progress of attack using ATT&CK and statistical methods based on the Sysmon log.\nFurthermore, this tool automatically converts aggregated Sysmon logs into ATT&CK Technique using Atomic Red Team's library. The converted information is visualized in a list format or colored in the ATT&CK Matrix.\nIt is beneficial when significant and chaotic logs can be transformed into a clear cybersecurity knowledge base format in a few moments. The tool is also helpful for real-world anomaly detection and cybersecurity learning.\nWe will provide this tool as a Web application and publish its source code on GitHub.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "SquarePhish: Combining QR Codes and OAuth 2.0 Device Code Flow for Advanced Phishing Attacks",
+    "tool_id": "30383",
+    "speakers": [
+      "Nevada Romsdahl",
+      "Kam Talebzadeh"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "White Phoenix - Beating Intermittent Encryption",
+    "tool_id": "31250",
+    "speakers": [
+      "Ari Novick",
+      "Amir Landau"
+    ],
+    "tracks": [
+      "Track: Malware Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Intermittent Encryption (aka Partial Encryption) is a new trend in the world of ransomware. It's been adopted by many notorious groups such as BlackCat Ransomware, Play Ransomware and more. Altogether, the groups using intermittent encryption have successfully targeted hundreds of organizations in 2022 alone. However, even though intermittent encryption has its advantages, it leaves much of the content of targeted files unencrypted. In this talk, we will demonstrate a tool that uses this limitation to recover valuable data, such as text and images from documents encrypted by these groups, allowing the victims to recover some of their lost data.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Deepfake Detection with Faceless",
+    "tool_id": "33577",
+    "speakers": [
+      "Manh Pham",
+      "Dong Duong"
+    ],
+    "tracks": [
+      "Track: Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "CANalyse 2.0 : A Vehicle Network Analysis and Attack Tool",
+    "tool_id": "30723",
+    "speakers": [
+      "Kartheek Lade"
+    ],
+    "tracks": [
+      "Track: Internet of Things"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "CANalyse is a software tool built to analyse the log files in a creative powerful way to find out unique data sets automatically and inject the refined payload back into vehicle network. It can also connect to simple interfaces such as Telegram for remote control. Basically, while using this tool you can provide your bot-ID and be able to use the tool's inbuilt IDE over the internet through telegram.\n\nCANalyse uses python-can library to sniff vehicle network packets and analyse the gathered information and uses the analysed information to command & control certain functions of the vehicle. CANalyse can be installed inside a raspberry-PI, to exploit the vehicle through a telegram bot by recording and analysing the vehicle network.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Exegol: Professional Hacking Setup",
+    "tool_id": "30815",
+    "speakers": [
+      "Charlie Bromberg",
+      "Mathieu Calemard du Gardin"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Exegol is a free and open-source pentesting environment made for professionals. It allows pentesters to conduct their engagements in a fast, effective, secure and flexible way. Exegol is a set of pre-configured and finely tuned docker images that can be used with a user-friendly Python wrapper to deploy dedicated and disposable environments in seconds.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "SharpToken: Windows Token Stealing Expert",
+    "tool_id": "31306",
+    "speakers": [
+      "yichen zhang"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "During red team lateral movement, we often need to steal the permissions of other users. Under the defense of modern EDR, it is difficult for us to use Mimikatz to obtain other user permissions, and if the target user has no process alive, we have no way to use \"OpenProcessToken\" to steal Token.\n\n\nSharpToken is a tool for exploiting Token leaks. It can find leaked Tokens from all processes in the system and use them. If you are a low-privileged service user, you can even use it to upgrade to \"NT AUTHORITY\\SYSTEM\" privileges, and you can switch to the target user's desktop to do more without the target user's password. ..",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "ThreatSeeker - Threat Hunting via Windows Event Logs",
+    "tool_id": "31211",
+    "speakers": [
+      "Ashish Bhangale",
+      "G Khartheesvar",
+      "Arafat Ansari"
+    ],
+    "tracks": [
+      "Track: Data Forensics and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Threat hunting using Windows logs is essential for identifying and mitigating potential security threats within an organization's network. It can be a time-consuming and painstaking process due to a large amount of data that needs to be collected and analyzed. The threat-hunting process could be repetitive. However, this process can be improved through custom scripts and tools.\n\nIn this talk, we will introduce ThreatSeeker, a windows log analysis framework that allows a threat hunter to find the common threats on the machine quickly. This tool also helps a threat hunter to detect APT movements. ThreatSeeker will allow a user to detect the following attacks:\n\n- Suspicious account behavior\n- User Creation and Added/Removed User to Admin group\n- Brute Force Attack Detection on SMB, RDP, WinRM, etc.\n- Brute Force Attack Detection\n- Detection of malicious executable\n- Detection of PTH Attack\n- Suspicious service creation\n- Installed Service with the executable in Suspicious locations\n- Detection of Modifying, Starting, Disabling, and Stopping Service\n- Detection of special privileges assigned\n- Suspicious Command Auditing\n- Powershell with Suspicious Argument\n- PowerShell Downloads\n- Execution of Suspicious executable,, i.e., rundll32.exe, sc.exe, mshta.exe, wscript.exe, cscript.exe\n- Suspicious Windows Registry Modification, Addition\n- Many More...\n\nAll the code and deployment scripts will be made open-source after the talk.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Backdoor Pony: Evaluating Backdoor Attacks and Defenses in Different Domains",
+    "tool_id": "31276",
+    "speakers": [
+      "Stefanos Koffas"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Outsourced training and crowdsourced datasets lead to a new threat for deep\nlearning models: the backdoor attack. In this attack, the adversary inserts a\nsecret functionality in a model, activated through malicious inputs. Backdoor\nattacks represent an active research area due to diverse settings where they\nrepresent a real threat. Still, there is no framework to evaluate existing\nattacks and defenses in different domains. Only a few toolboxes have been\nimplemented, but most of them focus on computer vision and are difficult\nto use. To bridge this gap, we present Backdoor Pony, a framework for\nevaluating attacks and defenses in different domains through a user-friendly\nGUI.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "DotDumper: Automatically Unpacking DotNet Based Malware",
+    "tool_id": "31071",
+    "speakers": [
+      "Max Kersten"
+    ],
+    "tracks": [
+      "Track: Malware Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Analysts at corporations of any size face an ever-increasing amount of DotNet based malware. The malware comes in all shapes and forms, ranging from skiddish stealers all the way to nation state backed targeted malware. The underground market, along with public open-source tools, provide a plethora of ways to obfuscate and pack the malware. Unpacking malware is time consuming, difficult, and tedious, which poses a problem.\n\nTo counter this, DotDumper automatically dumps interesting artifacts during the malware's execution, ranging from base64 decoded values to decrypted PE files. As such, the malware decrypts and executes the next stage, while DotDumper conveniently provides a copy of said decrypted stage. All this is done via a simple, compact, intuitive, and easy-to-use command-line interface.\n\nAside from the dumped artifacts, DotDumper provides an extensive log of the traced execution, based on managed hooks. For each hook, the log contains the original function name, arguments and their values, and the return value. Since DotDumper ensures that the original function is called, the malware's execution continues as if it was executed normally, allowing the analyst to get as many stages from the sample as possible.\n\nDotDumper can execute DotNet Framework executables, as well as dynamic link libraries, due to the fully-fledged reflective loader which is embedded. Any given function can be selected within a library, along with any required variables and their values, all easily accessible from DotDumper's command-line interface.\n\nDotDumper has proven to be effective in dealing with the renowned AgentTesla stealer or the WhisperGate Wiper loader, allowing an analyst to easily fetch the decrypted and unpacked in-memory only stages, thus decreasing up the time spent on unpacking, allowing for faster response to the given threat.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "GodPotato: As Long as You Have the ImpersonatePrivilege Permission, Then You are the SYSTEM!",
+    "tool_id": "31303",
+    "speakers": [
+      "yichen zhang",
+      "Linhong Cao"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Based on the history of Potato privilege escalation for 6 years, from the beginning of RottenPotato to the end of JuicyPotatoNG, I discovered a new technology by researching DCOM, which enables privilege escalation in Windows 2012 - Windows 2022, now as long as you have \"ImpersonatePrivilege\" permission. Then you are \"NT AUTHORITY\\SYSTEM\", usually WEB services and database services have \"ImpersonatePrivilege\" permissions.\n\n\n\nPotato privilege escalation is usually used when we obtain WEB/database privileges. We can elevate a service user with low privileges to \"NT AUTHORITY\\SYSTEM\" privileges.\nHowever, the historical Potato has no way to run on the latest Windows system. When I was researching DCOM, I found a new method that can perform privilege escalation. There are some defects in rpcss when dealing with oxid, and rpcss is a service that must be opened by the system. , so it can run on almost any Windows OS, I named it GodPotato",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Post-Quantum Cryptography Library",
+    "tool_id": "30898",
+    "speakers": [
+      "Sagar Bhure",
+      "Shain Singh"
+    ],
+    "tracks": [
+      "Track: Cryptography"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "This library provides a convenient way for developers to integrate post-quantum cryptography into their applications, helping to protect sensitive information from potential quantum computing attacks. We present f5oqs_sdk, a Python 3 library that wraps the liboqs C library, which is part of the Open Quantum Safe (OQS) project. The OQS project aims to develop and prototype quantum-resistant cryptography. The f5oqs_sdk offers a unified API for post-quantum key encapsulation and digital signature schemes, as well as a collection of open-source implementations of post-quantum cryptography algorithms. It also provides support for alternative RNGs through the randombytes[] functions. The library is available on PyPI and can be easily installed with pip. The paper provides a brief overview of the installation process and usage of the library, along with examples of how to use the API.\n\nf5oqs_sdk is a powerful tool for developers who want to integrate post-quantum cryptography into their applications. It provides a unified and easy-to-use API for implementing quantum-resistant cryptography, helping to protect sensitive information from potential quantum computing attacks.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Industrial Control Systems: Capture the Train!",
+    "tool_id": "31924",
+    "speakers": [
+      "Arnaud Soullie"
+    ],
+    "tracks": [
+      "Track: Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "CureIAM: The Ultimate Solution to Least Privilege Principle Enforcement on GCP",
+    "tool_id": "31097",
+    "speakers": [
+      "Kenny Gotama",
+      "Rohit Sehgal"
+    ],
+    "tracks": [
+      "Track: Network Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "CureIAM is an easy-to-use, reliable, and performant engine that enables DevOps and security teams to quickly clean up over-permissioned IAM accounts on GCP infrastructure. By leveraging GCP IAM Recommender APIs and the Cloudmarker framework, CureIAM automatically enforces least privilege principle on a daily basis, and helps to ensure that only the necessary permissions are granted to GCP accounts.\n\nKey Features\n\n- Config driven workflow for easy customization\n- Scalable and production-grade design\n- Embedded scheduling for daily enforcement\n- Plugin-driven architecture for additional functionality\n- Track actionable insights and records actions for audit purposes\n- Scoring and enforcement of recommendations to ensure safety and security",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "PoC Attack Against Flying Drone",
+    "tool_id": "31236",
+    "speakers": [
+      "Kelvin Wong"
+    ],
+    "tracks": [
+      "Track: Hardware/Embedded"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Advancements in UAV technology are opening new opportunities and applications in various fields of life. However, these advancements are also causing new challenges in terms of security, adaptability, and consistency. Especially the small drones are even suffering from architectural issues and the definition of security and safety issues.\n\n\nMost of the UAS system are using 2.4 or 5.8Ghz for remote connection and video transmission. Counter UAS units always purchase very expensive anti-drone or detection system, eg drone gun. To review the applicability, our team developed an open-source hand crafted device to achieve the task. During the demonstration, DJI smart drone and some custom-made FPV drone will be the target of the attack",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "PyExfil - A Python Data Exfiltration & C2 Framework",
+    "tool_id": "30338",
+    "speakers": [
+      "Yuval Nativ"
+    ],
+    "tracks": [
+      "Track: Cryptography"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "PyExfil is a python data exfiltration package. It is currently an open source package allowing everyone to download, use and edit the code. It has several modules classified in 4 types of data exfiltration purposes. It is designed to enable Security personnel to test their Data Leakage Prevention mechanisms by attempting to leak various types of data and examine alerting and prevention mechanisms employed in their infrastructure.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "SCodeScanner (SourceCodeScanner)",
+    "tool_id": "30373",
+    "speakers": [
+      "Utkarsh Agrawal"
+    ],
+    "tracks": [
+      "Track: Code Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+    "tool_id": "31212",
+    "speakers": [
+      "Nishant Sharma",
+      "Dasari Yashwanth Babu"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "BlueMap - An Interactive Tool for Azure Exploitation",
+    "tool_id": "30899",
+    "speakers": [
+      "Maor Tal"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Faceless - Deepfake Detection",
+    "tool_id": "31316",
+    "speakers": [
+      "Manh Pham"
+    ],
+    "tracks": [
+      "Track: Human Factors"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Faceless is a deepfake detection system.\n\nThe proposed deepfake detection model is based on the CNN structure with some customizations. It is hoped that an approachable solution could remind Internet users to stay secure against fake contents and counter the emergence of deepfake.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "ICS Forensics Tool",
+    "tool_id": "30845",
+    "speakers": [
+      "Ori Perez",
+      "yogev shitrit"
+    ],
+    "tracks": [
+      "Track: Smart Grid/Industrial Security"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "ICS Forensics Tools is an open source forensic toolkit for analyzing Industrial PLC metadata and project files. Microsoft ICS Forensics Tools enables investigators to identify suspicious artifacts on ICS environment for detection of compromised devices during incident response or manual check. ICS Forensics Tools is open source, which allows investigators to verify the actions of the tool or customize it to specific needs, currently support Siemens S7.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Damn Vulnerable Bank",
+    "tool_id": "31173",
+    "speakers": [
+      "Rewanth Tammana",
+      "Hrushikesh Kakade",
+      "Akshansh Jaiswal"
+    ],
+    "tracks": [
+      "Track: Android",
+      "iOS and Mobile Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "With over 2.5 billion devices and millions of apps, Android is ruling the market. Developers had additional responsibility to protect the information and integrity of their users. Considering these high numbers, preventive measures should be taken to secure Android applications used by people across the globe.\n\nWe built an open-source vulnerable Banking application, a clone close to real-world banking applications. The existing vulnerable applications cover only basic OWASP vulnerabilities. Our vulnerable application covers multiple things like Binary analysis, Debugger detection bypasses, Frida analysis, writing custom code to decrypt data, and a lot more along with basic OWASP vulnerabilities. This product will be a one-stop place for android application security enthusiasts.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Forecasting ATT&CK Flow by Recommendation System Based on APT",
+    "tool_id": "30990",
+    "speakers": [
+      "Masaki Kuwano",
+      "Koki Watarai",
+      "Takuho Mitsunaga"
+    ],
+    "tracks": [
+      "Track: Network Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Our tool is to forecast undetected ATT&CK techniques based on collaborative filtering and graph databases.\nPCs and servers are generating massive logs daily, on the other hand, SOCs analysts are required to detect and respond quickly to cyber-attacks. However, it will take a lot of time to detect cyber-attacks if SOC analysts do not have clues. Conventional log analysis tools such as SIEM can detect attacks but cannot predict the next attack from the information already obtained. Recommendation systems often used in e-commerce sites can predict future purchasing behavior by analyzing the user's purchase history. Replacing with ATT&CK, each attacker group can be considered a user, and techniques attackers use can be regarded as a user's purchase history.\nUsing this tool, the logs are mapped to ATT&CK techniques by uploading log files to create a technique usage history of the attacker (adversary) currently conducting an ongoing attack. The adversary's technique usage history and past APT attack data are used for collaborative filtering to predict which techniques the adversary may use in the future. This visualization is\u3000displayed together with the ATT&CK tactic, enabling you to see the attack flow in stages of progression. In addition, search queries of SIEM associated with forecasted ATT&CK technique are outputted. SOC analysts can consider attacks quickly and comprehensively by using queries.\nThe source code of this tool and an example analysis will be shown on GitHub. It is available as a web application.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Gerobug: Open-Source Private (Self-Managed) Bug Bounty Platform",
+    "tool_id": "31241",
+    "speakers": [
+      "Billy Sudarsono",
+      "Felix Alexander",
+      "Jessica Geofanie Ganadhi",
+      "Yohan Muliono"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Are you a company, planning to have your own bug bounty program, with minimum budget? We got you!\n\nWe are aware that some organizations have had difficulty establishing their own bug bounty program.\nIf you know what you're doing, using a third-party managed platform usually comes with a hefty price tag and increased security concerns.\nHowever, creating your own independently run platform will take time and effort.\n\nGEROBUG FEATURES:\nHomepage\nThis should be the only page accessible by public, which contains Rules and Guidelines for your bug bounty program.\n\nEmail Parser\nBug Hunter will submit their findings by email, which Gerobug will parse, filter, and show them on dashboard.\n\nAuto Reply and Notification\nBug Hunter's inquiries will be automatically replied and notified if there any updates on their report.\nCompany will also be notified via Slack if there any new report.\n\nReport Management\nManage reports easily using a kanban model.\n\nReport Filtering and Flagging\nReports from Bug Hunter will be filtered and flagged if there are duplicate indication.\n\nEmail Blacklisting\nGerobug can temporarily block and release emails that conducted spam activity\n\nAuto Generate Certificate\nWe can generate certificate of appreciations for bug hunters so you don't have to ;)\n\nHall of Fame / Wall of fame / Leaderboard\nYeah we have it too",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "PurpleSharp: Automated Adversary Simulation",
+    "tool_id": "31336",
+    "speakers": [
+      "Mauricio Velazco"
+    ],
+    "tracks": [
+      "Track: Network Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Industrial Control Systems: Capture the Train!",
+    "tool_id": "31924",
+    "speakers": [
+      "Arnaud Soullie"
+    ],
+    "tracks": [
+      "Track: Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "canTot: A CAN Bus Hacking Framework for Car Hacking",
+    "tool_id": "31275",
+    "speakers": [
+      "Jay Turla"
+    ],
+    "tracks": [
+      "Track: Hardware/Embedded"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "canTot is a CAN Bus hacking framework that focuses on known CAN Bus vulnerabilities or fun CAN Bus hacks. It is a Python-based CLI framework based on sploitkit and is easy to use because it is similar to working with Metasploit. It can also be used as a guide for pentesting vehicles and learning python for Car Hacking the easier way. This is not to reinvent the wheel of known CAN fuzzers, car exploration tools like caring caribou, or other great CAN analyzers out there. But to combine all the known vulnerabilities and fun CAN bus hacks in automotive security.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Remove-Signature",
+    "tool_id": "31139",
+    "speakers": [
+      "Yuya Chudo"
+    ],
+    "tracks": [
+      "Track: Malware Offense"
+    ],
+    "skill_level": "Intermediate",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Remove-Signature is a tool designed to automate the process of generating a payload that can bypass anti-virus detection.\n\nDuring red team testing, red team operators often need to prepare a payload that will not be detected by anti-virus software in order to be successful. One way to do this is to identify where the signatures used by anti-virus software are located in the payload, and then modifies bytes of the locations so that the modified payload will not be detected as malicious. This process can be time-consuming.\n\nRemove-Signature aims to automate this process by identifying the signatures in the payload, and modifying a single byte of the signatures location in a way that will bypass anti-virus detection, while still maintaining the functionality of the payload. The tool understands the PE file format and only makes modifications that will not affect the payload's functionality. Unlike other existing tools that can only identify signatures, Remove-Signature is able to automatically generate a modified payload that can evade anti-virus detection.\n\nThe use of Remove-Signature can help to reduce the workload of red team operators and allow them to focus on other aspects of the red team engagement.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "uftrace: Dynamic Function Tracing Tool for C/C++/Rust programs",
+    "tool_id": "30951",
+    "speakers": [
+      "Kim MinJeong",
+      "Honggyu Kim"
+    ],
+    "tracks": [
+      "Track: Reverse Engineering"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "uftrace is a function tracing tool that helps in the analysis of C/C++/Rust programs. It hooks into the entry and exit of each function, recording timestamps as well as the function's arguments and return values. uftrace is capable of tracing both user and kernel functions, as well as library functions and system events providing an integrated execution flow in a single timeline.\n\nInitially, uftrace only supported function tracing with compiler support. However, it now allows users to trace function calls without recompilation by analyzing instructions in each function prologue and dynamically and selectively patching those instructions.\n\nUsers can also write and run scripts for each function entry and exit using python/luajit APIs to create custom tools for their specific purposes.\n\nuftrace offers various filters to reduce the amount of trace data and provides visualization using Chrome trace viewer and flame graphs, allowing for a big picture view of the execution flow.\n\nuftrace was open sourced in 2016 and has been developed at https://github.com/namhyung/uftrace.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Vajra - Your Weapon To Cloud",
+    "tool_id": "30873",
+    "speakers": [
+      "Raunak Parmar"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Vajra is a UI-based tool with multiple techniques for attacking and enumerating in the target's Azure and AWS environments. It features an intuitive web-based user interface built with the Python Flask module for a better user experience. The primary focus of this tool is to have different attacking techniques all in one place with a web UI interface\nThe term Vajra refers to the Weapon of God Indra in Indian mythology (God of Thunder & Storms). It's a connection to the cloud makes it a perfect name for the tool.\nVajra presently supports Azure and AWS Cloud environments, with plans to add support for Google Cloud Platform and certain OSINT in the future.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Introducing the Operating System for Automotive Security Testing: A Hands-on Demonstration",
+    "tool_id": "30886",
+    "speakers": [
+      "RAVI RAJPUT"
+    ],
+    "tracks": [
+      "Track: Hardware/Embedded"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Automotive security is a critical concern as vehicles become more connected and autonomous. To ensure the security of these systems, specialized operating systems are needed for testing and evaluating their vulnerabilities.\n\nOur presentation introduces a new operating system for automotive security testing, designed specifically for this purpose. This operating system includes a range of tools and features that are essential for testing the security of automotive systems, such as support for different communication protocols and hardware interfaces. In particular, it includes tools for testing BLE, WiFi, and automotive ethernet, as well as a CAN testing setup.\n\nIn addition to these features, the operating system includes automation tools and a test lab to allow attendees to practice and apply their knowledge. This makes it an ideal platform for hands-on learning and experimentation.\n\nBy using this operating system, attendees will be able to test the security of their automotive systems and identify potential vulnerabilities. They will also gain practical experience in using the tools and techniques needed to secure these systems and prevent attacks.\n\nOverall, our presentation provides a valuable resource for anyone interested in securing the increasingly complex and connected systems found in modern vehicles. By understanding the capabilities and limitations of this operating system, attendees will be better equipped to secure their own automotive systems and prevent vulnerabilities.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "KICS - Your IaC Secure Now!",
+    "tool_id": "31009",
+    "speakers": [
+      "Nuno Oliveira",
+      "Joao Reigota"
+    ],
+    "tracks": [
+      "Track: Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "KICS stands for Keeping Infrastructure as Code Secure. It is open source and is a must-have for any cloud native project to find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of the underlying infrastructure-as-code (IaC).\n\nKICS supports about 20 different technologies including Terraform, Cloudformation, Kubernetes, Docker, over several cloud providers like AWS, Microsoft Azure or Google Cloud. It is the only open-source project that has achieved any Center for Internet Security (CIS) certification.\n\nKICS is fully customizable and extensible by the addition of rules for new vulnerabilities. It is available as a Docker image, and is paired in multiple platforms to leverage its integration on the development life-cycle and the DevSecOps mentality of its users. Gitlab has chosen KICS as its default IaC scanner; it is also available in ArgoHub, as a hook in TerraformCloud or as a Github Action for Github workflows.\n\nOne of the most recent features of KICS is auto remediation. With this feature KICS goes full cycle in preventing vulnerable code from going into production by scanning the code, exposing the issues, and automatically remediating them. Such a feature is both available from the CLI interface, or via a plugin for the Visual Studio Code editor, where we bring together auto-remediation and real-time scanning. As the developer writes IaC scripts, KICS automatically looks for vulnerabilities, proposes fixes and remediates them. By the time the IaC scripts are finished, developers are rest assured that it is safe to go into production. This is shift-left security brought to its splendor.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "T3SF (Technical TableTop Exercises Simulation Framework)",
+    "tool_id": "30372",
+    "speakers": [
+      "Federico Pacheco",
+      "Joaquin Lanfranconi"
+    ],
+    "tracks": [
+      "Track: Data Forensics and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "T3SF is a framework that offers a modular structure for the orchestration of events from a master scenario events list (MSEL) together with a set of rules defined for each exercise and a configuration that allows defining the parameters of the correspondent platform. The main module performs the communication with the specific module (Discord, Slack, Telegram, WhatsApp, Teams, etc.) which allows the events to be presented in the input channels as injects for each platform. Also, the framework supports different use cases: single organization-multiple areas, multiple organization-single area, and multiple organization-multiple areas. It has been successfully tested in exercises with international companies, which allowed us to validate its commercial level.\n\nTabletop exercises have 2 approaches: traditional (scenarios with discussion) and modern (automatic events on a platform). The 1st platform was funded by the DHS (USA) with USD20 MM over 10 years. In 2021 we proposed a novel approach using free platforms, which allowed the development of a free and open source framework.\n\nThe original research paper presented and published at the IEEE ARGENCON 2022 academic congress, under the title \"Cybersecurity Incident Response Simulation for Organizational and Classroom Learning.\" Preprint available at IEEE TechRxiv: https://www.techrxiv.org/articles/preprint/Cybersecurity_incident_response_tabletop_simulations_for_learning_in_classrooms_and_organizations/20317416/1/files/36346944.pdf\n\nThe tool itself was first presented an released in the most important cybersecurity conference in Spain in (RootedCon 2022) and then updated and presented in the most important cybersecurity conference in Latin America (Ekoparty 2022). Video available at YouTube: https://www.youtube.com/watch?v=3jVkKvVn1TY\n\nThis version is a major update, that includes a code rewrite, GUI frontend, new features, and an automatic inject creation engine (sentences in Spanish and English).",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "unblob",
+    "tool_id": "30358",
+    "speakers": [
+      "Quentin Kaiser"
+    ],
+    "tracks": [
+      "Track: Reverse Engineering"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "One of the major challenges of embedded security analysis is the accurate extraction of arbitrary firmwares.\n\nWhile binwalk has been the de-facto standard for firmware extraction since its early days, it proved to be limited in an environment where we needed to analyze heterogeneous firmwares from potentially malicious uploaders at scale.\n\nIn this talk we will introduce the audience to our specific use case, the limits of existing extraction tools, and how we overcame them by developing our very own firmware extraction framework, named unblob.\n\nunblob is an accurate, fast, and easy-to-use extraction suite. unblob parses unknown binary blobs for more than 30 different archive, compression, and file-system formats, extracts their content recursively, and carves out unknown chunks that have not been accounted for. This turns unblob into the perfect companion for extracting, analyzing, and reverse engineering firmware images.\n\nSimilar to what HD Moore did 19 years ago when he started gathering exploit scripts in a single unifying framework with Metasploit, we'd like to provide reverse engineers with an easy to use and extensible framework to extract custom formats. Our hope is to provide a home to firmware reversers and help them not rewriting the same code every time they need to support a new vendor format.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Deepfake Detection with Faceless",
+    "tool_id": "33577",
+    "speakers": [
+      "Manh Pham",
+      "Dong Duong"
+    ],
+    "tracks": [
+      "Track: Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "eBPFShield: Advanced IP-Intelligence & DNS Monitoring using eBPF",
+    "tool_id": "31314",
+    "speakers": [
+      "Sagar Bhure"
+    ],
+    "tracks": [
+      "Track: Network Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "eBPFShield is a powerful security tool that utilizes eBPF and Python to provide real-time IP-Intelligence and DNS monitoring. By executing in kernel space, eBPFShield avoids costly context switches, making it a high-performance solution for detecting and preventing malicious behavior on your network. The tool offers efficient monitoring of outbound connections and comparison with threat intelligence feeds, making it an effective solution for identifying and mitigating potential threats. The tool includes features such as DNS monitoring, IP-Intelligence, and the ability to pull down public threat feeds.\n\nAdditionally, it includes a roadmap for future developments such as support for IPv6, automated IP reputation analysis using Machine Learning algorithms, and integration with popular SIEM systems for centralized monitoring and alerting.\n\neBPFShield is especially useful for companies and organizations that handle sensitive information and need to ensure the security of their networks. It's an efficient solution to monitor and protect servers from potential threats and it can help to prevent data breaches and other cyber attacks.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Elkeid -- Open-sourced Cloud Workload Protection Platform",
+    "tool_id": "30834",
+    "speakers": [
+      "Enzhe Lu",
+      "Yue Chen",
+      "Alkene Pan",
+      "Pengbo Yao"
+    ],
+    "tracks": [
+      "Track: Data Forensics and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Ekeid is an open-source solution that is derived from ByteDance's internal best practices, which can meet the security requirements of various workloads such as hosts, containers, container clusters, and Serverless. With the unified design and integration of HIDS, Container Security, RASP, and K8S auditions all into one platform to meet the complex security requirements of different workload capacities in the current industry. At the same time, it can also implement multi-component capability association. The most valuable part is that each component of Elkeid has passed ByteDance's massive data and years of practical testing.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "SquarePhish: Combining QR Codes and OAuth 2.0 Device Code Flow for Advanced Phishing Attacks",
+    "tool_id": "30383",
+    "speakers": [
+      "Nevada Romsdahl",
+      "Kam Talebzadeh"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "tty2web",
+    "tool_id": "31310",
+    "speakers": [
+      "Vlatko Kosturjak"
+    ],
+    "tracks": [
+      "Track: Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "tty2web can take any console program and convert it into a web application. It provides a proper console for your shell needs directly inside your browser, which means programs like vim, mc, or any program that needs tty will work as expected by default. Features include support for both bind and reverse mode, which is useful for penetration testing and NAT traversal, bidirectional file transfer, reverse SOCKS 5 functionality by emulating the regeorg interface, and API support for executing commands (imagine having a RESTful interface to your operating system shell). It supports collaboration and sharing between teams, is multiplatform, and runs well on Unix/Linux-based OSs running container payloads. It is based on gotty but has been heavily improved for security and penetration tester needs.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "AWSGoat : A Damn Vulnerable AWS Infrastructure",
+    "tool_id": "31311",
+    "speakers": [
+      "Jeswin Mathai",
+      "Litesh Ghute",
+      "Govind Krishna"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Build Your Own Reconnaissance System with Osmedeus Workflow Engine",
+    "tool_id": "31002",
+    "speakers": [
+      "Ai Ho"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Osmedeus is a is a workflow framework designed to perform reconnaissance, with a focus on identifying the attack surface and conducting security testing on the specified target, including vulnerability scanning, port scanning, and content discovery",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Purple Knight",
+    "tool_id": "33775",
+    "speakers": [
+      "Jacqueline Young"
+    ],
+    "tracks": [
+      "Track:"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "Business applications on-premises and in the cloud rely on Active Directory (AD) and Azure Active Directory for authentication, making it a critical piece of IT infrastructure. But securing Active Directory is difficult given its constant flux, its sheer number of settings, and the increasingly sophisticated threat landscape. This creates potential exploitable Indicators of Exposure in AD, and if you have or had a bad actor in your AD you will want to understand the Indicators of Compromise (IOCs) which is the evidence an attacker is there. In this session, we will talk about the Purple Knight freeware tool by Semperis which helps organizations understand the security posture of their hybrid Active Directory as it pertains to IOEs and IOCs.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "reNgine: An Open-Source Automated Reconnaissance/Attack Surface Management tool",
+    "tool_id": "31305",
+    "speakers": [
+      "Yogesh Ojha"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "Hands-on RFID: Sniff it, crack it, clone it",
+    "tool_id": "33580",
+    "speakers": [
+      "Kelvin Wong",
+      "Dennis Goh"
+    ],
+    "tracks": [
+      "Track: Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "BlueMap - An Interactive Tool for Azure Exploitation",
+    "tool_id": "30899",
+    "speakers": [
+      "Maor Tal"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "GCPGoat : A Damn Vulnerable GCP Infrastructure",
+    "tool_id": "31312",
+    "speakers": [
+      "Shantanu Kale",
+      "Rishappreet Singh Moonga",
+      "Ravi Verma",
+      "Govind Krishna"
+    ],
+    "tracks": [
+      "Track: Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": "GCPGoat is a vulnerable by design infrastructure on GCP featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as IAM, Storage Bucket, Cloud Functions and Compute Engine. GCPGoat mimics real-world infrastructure but with added vulnerabilities. It features multiple escalation paths and is focused on a black-box approach.",
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "PurpleSharp: Automated Adversary Simulation",
+    "tool_id": "31336",
+    "speakers": [
+      "Mauricio Velazco"
+    ],
+    "tracks": [
+      "Track: Network Defense"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  },
+  {
+    "tool_name": "SCodeScanner (SourceCodeScanner)",
+    "tool_id": "30373",
+    "speakers": [
+      "Utkarsh Agrawal"
+    ],
+    "tracks": [
+      "Track: Code Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ARSENAL",
+    "session_type": "Arsenal",
+    "github_url": null,
+    "description": null,
+    "Year": "2023",
+    "Country": "Asia"
+  }
+]

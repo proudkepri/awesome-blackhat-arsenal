@@ -1,19 +1,15 @@
-
-
-# 🛠️ Full Walkthrough: From Scraping Tools to Publishing an Auto README
+# 🔧 Arsenal Project: Step-by-Step Walkthrough
 
 ---
 
 ## ✅ Step 1: Install Requirements
 
-### 📌 Install Python (if you don’t have it)
+### 📀 Install Python
 
 * Download from: [https://www.python.org/downloads](https://www.python.org/downloads)
-* During install, **check the box** that says **“Add Python to PATH”**
+* During install, **check the box** that says **"Add Python to PATH"**
 
-### 📦 Install required Python packages
-
-#### Copy and paste this
+### 📦 Install Required Python Packages
 
 ```bash
 pip install -r requirements.txt
@@ -21,7 +17,7 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ Step 2: Set Up the Project Folder
+## ✅ Step 2: Set Up the Project Directory
 
 ```bash
 cd arsenal-project
@@ -29,173 +25,142 @@ cd arsenal-project
 
 ---
 
-## ✅ Step 3: Recommended Folder Structure
+## ✅ Step 3: Folder Structure Overview
 
 ```
 arsenal-project/
-├── Data/
-│   └── Canada/
-├── CanadaIndiv/
-├── CanadaCleaned/
-├── tools/
-│   └── Canada/
-│       └── 2023/
-├── Links/
-│   ├── Canada.txt
-│   └── Europe.txt
-├── NewLinks/
-│   └── Canada.txt
-├── AutoReadme.py         ← final readme generator
-├── CategoryPredictor.py  ← LLM-based track classifier
-├── run.py                ← one-click execution script
-├── README.md             ← auto-generated
+├── Data/                  ← Scraped raw JSONs go here
+│   └── Asia/
+├── Asia/                 ← Individual tool files go here
+│   └── 2023/
+├── tools/                ← Final output structure by country/year
+│   └── Asia/
+├── Links/                ← Legacy schedule links
+├── NewLinks/             ← Modern schedule links
+├── AutoReadme.py
+├── CategoryPredictor.py
+├── README.md             ← Final output
 ```
 
 ---
 
-## ✅ Step 4: Sample Input Links
+## ✅ Step 4: Scrape Black Hat Tools
 
-### 🔹 For modern schedule scraper (`scrape_blackhat_schedule.py`)
+### 🔹 Modern Schedule (e.g., `can-24`, `us-23`)
 
-**NewLinks/Canada.txt**
-
-```
-https://www.blackhat.com/can-24/arsenal/schedule/index.html
-https://www.blackhat.com/us-23/arsenal/schedule/index.html
-```
-
-### 🔹 For legacy HTML scraper (`scrape_old_html_schedule.py`)
-
-**Links/Europe.txt**
-
-```
-https://www.blackhat.com/asia-18/arsenal.html
-```
-
----
-
-## ✅ Step-by-Step Manual Commands
-
-### 🔹 1. Scrape Event Pages
-
-Modern (JS-based):
+Edit and run:
 
 ```bash
 python scrape_blackhat_schedule.py
 ```
 
-Legacy (static HTML):
-
-```bash
-python scrape_old_html_schedule.py
-```
+Ensure `scrape_all_from_txt("NewLinks/Asia.txt")` is correctly pointing to your `.txt` file.
 
 ---
 
-### 🔹 2. Add Year and Country to Each Tool
+## ✅ Step 5: Add Metadata Fields
 
 ```bash
 python update_metadata_fields.py
 ```
 
+This adds `"Year"` and `"Country"` to every tool in `Data/Asia/`
+
 ---
 
-### 🔹 3. Split All Tools into Individual Files
+## ✅ Step 6: Split into Individual Files
 
 ```bash
 python split_tools_to_individual_files.py
 ```
 
+Example output: `Asia/2023/0001_ToolName.json`
+
 ---
 
-### 🔹 4. Predict Tool Categories (Tracks)
+## ✅ Step 7: Predict Tool Categories (Optional)
 
 ```bash
 python CategoryPredictor.py
 ```
 
-> Uses GPT or Gemini to infer category from description
-> ✅ Adds: `"Tracks": ["Track: Red Teaming"]`
+Predicts the category using Gemini / OpenAI and updates `Asia/2023/*.json`
 
 ---
 
-### 🔹 5. Add GitHub URLs Using Serper.dev
-
-1. Open `add_github_urls.py` and set your API key:
-
-```python
-SERPER_API_KEY = "your-api-key-here"
-```
-
-2. Run:
-
-```bash
-python add_github_urls.py
-```
-
----
-
-### 🔹 6. Flatten Nested Files and add it to the root folder
+## ✅ Step 8: Flatten Folder into Final Structure
 
 ```bash
 python flatten_tool_folders.py
 ```
 
+Takes input like `Asia/2023/*.json` and moves them to:
+
+```
+tools/Asia/2023/ToolName.json
+```
+
+Automatically removes prefix numbers like `001_`, `002_`
+
 ---
 
-### 🔹 7. Generate README Files
+## 📆 Sample Folder Flow
+
+### ✅ Initial:
+
+```
+Data/Asia/
+└── asia-23_arsenal_schedule_index.html.json
+```
+
+### ✅ After Metadata Insertion:
+
+```
+Data/Asia/asia-23_arsenal_schedule_index.html.json
+  └── Each object now has "Year": 2023, "Country": "Asia"
+```
+
+### ✅ After Splitting:
+
+```
+Asia/2023/0001_ToolName.json
+```
+
+### ✅ Final Output:
+
+```
+tools/Asia/2023/ToolName.json
+```
+
+---
+
+## 📆 Final Result
+
+* `tools/Asia/2023/*.json`
+* Each tool is enriched, categorized, and cleaned.
+* `README.md` is auto-generated per region.
+
+Run:
 
 ```bash
 python AutoReadme.py
 ```
 
-✅ Outputs:
+Generates:
 
-* An organized `README.md` at the root
-* Sub-readmes under `tools/Region/Year/`
-
----
-
-## ✅ Optional: One-Click Execution
-
-Use the bundled automation script to run everything in one command:
-
-```bash
-python run.py
-```
-
-It will:
-
-* Scrape
-* Enrich
-* Predict
-* Add GitHub URLs
-* Flatten
-* Generate README
+* Top-level `README.md`
+* Sub-readmes inside `tools/Asia/2023/`
 
 ---
 
-## 📦 Final Output
+## 📄 Summary of Key Scripts
 
-* `README.md` organized by region → year → category
-* `tools/{Region}/{Year}/README.md` (sub-lists)
-* One JSON file per tool, enriched and categorized
-
----
-
-## 📝 Script Summary
-
-| Script                               | Purpose                                |
-| ------------------------------------ | -------------------------------------- |
-| `scrape_blackhat_schedule.py`        | Scrape modern Black Hat pages          |
-| `scrape_old_html_schedule.py`        | Scrape legacy static HTML pages        |
-| `update_metadata_fields.py`          | Add `"Year"` and `"Country"` fields    |
-| `split_tools_to_individual_files.py` | Split tools into one file per tool     |
-| `CategoryPredictor.py`               | Predict `"Tracks"` using GPT/Gemini    |
-| `add_github_urls.py`                 | Add `"Github URL"` using Serper API    |
-| `flatten_tool_folders.py`            | Flatten nested folders                 |
-| `AutoReadme.py`                      | Generate README.md files automatically |
-| `run.py`                             | 🟢 One-click pipeline to run all steps |
-
----
+| Script                               | Purpose                         |
+| ------------------------------------ | ------------------------------- |
+| `scrape_blackhat_schedule.py`        | Scrape tools from modern events |
+| `update_metadata_fields.py`          | Add `Year` and `Country` fields |
+| `split_tools_to_individual_files.py` | One file per tool               |
+| `CategoryPredictor.py`               | Predict tool track/category     |
+| `flatten_tool_folders.py`            | Organize and clean filenames    |
+| `AutoReadme.py`                      | Generate project readme files   |
 

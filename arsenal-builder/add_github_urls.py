@@ -5,12 +5,12 @@ import requests
 # ------------------------------------------------------------
 # 🔐 Configuration: Set your Serper.dev API key here
 # ------------------------------------------------------------
-SERPER_API_KEY = "sample api key"  # <-- Replace with your actual key
+SERPER_API_KEY = "add serper api key" # <-- Replace with your actual key
 HEADERS = {"X-API-KEY": SERPER_API_KEY}
 SEARCH_URL = "https://google.serper.dev/search"
 
 # 🔍 Directory containing 1 JSON file per tool
-ROOT_DIR = "MEAindiv"
+ROOT_DIR = "Asia"
 
 # ------------------------------------------------------------
 # 🧠 Build a targeted GitHub search query using tool + speaker
