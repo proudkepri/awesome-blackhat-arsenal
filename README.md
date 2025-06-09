@@ -1,12 +1,12 @@
 # Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-June%202025-blue)](https://github.com/yourusername/awesome-blackhat-arsenal)
 
-> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.
+> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities. Created by Blackhat Arsenal Co-founder and part of the Board reviewers
 
 Whether you're in red teaming, blue teaming, appsec, or OSINT — this list helps you explore and leverage the best tools demonstrated live by security professionals across the world.
 
 📌 **How This List is Organized**
 
-- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).
+- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia, Canada and Middle East).
 - Under each location, tools are further organized by **year**.
 - Inside each year’s section, you’ll find the tools organized **by track category**, each with descriptions, authors, and GitHub links (where available).
 
