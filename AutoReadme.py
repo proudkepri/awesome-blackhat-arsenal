@@ -113,6 +113,16 @@ for location in sorted(os.listdir(ROOT_DIR)):
 
             # ✍️ Parse each tool entry
             for tool in data:
+                badge_color = {
+                    "USA": "black",
+                    "Europe": "blue",
+                    "Asia": "green",
+                    "MEA": "orange",
+                    "Canada": "purple"
+                }.get(location, "gray")
+
+                loc_year_badge = badge(f"{location} {year}", badge_color)
+
                 name = tool.get("Tool Name", "Unnamed Tool")
                 url = (tool.get("Github URL") or "").strip()
                 description = tool.get("Description", "No description provided.")
@@ -129,12 +139,14 @@ for location in sorted(os.listdir(ROOT_DIR)):
                 link_line = f"🔗 **Link:** [{name}]({url})" if url else "🔗 **Link:** Not Available"
 
                 # Final tool block
-                entry = f"""<details><summary><strong>{name}</strong></summary>\n\n{event_tag} {category_tag} {speaker_tags}\n\n{link_line}  \n📝 **Description:** {description}\n\n</details>\n"""
+                entry = f"""<details><summary><strong>{name}</strong></summary>\n\n{loc_year_badge} {event_tag} {category_tag} {speaker_tags}\n\n{link_line}  \n📝 **Description:** {description}\n\n</details>\n"""
                 tools_by_category[category].append(entry)
 
         # -------------------------------
         # 📄 Generate Sub README per Year
         # -------------------------------
+        # Color code badges by region (optional)
+ 
         subreadme = [
             f"# {location} {year}",
             "---",
@@ -188,7 +200,7 @@ main_readme.extend([
     "> ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.",
     "---",
     "## 📄 License",
-    "[MIT](LICENSE)",
+    "[CC0 1.0](LICENSE)",
     "---",
 ])
 

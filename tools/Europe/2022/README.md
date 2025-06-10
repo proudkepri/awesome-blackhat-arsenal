@@ -18,7 +18,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ## Others
 <details><summary><strong>a bridge to laser beam from IR remote controller</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![michihiro imaoka](https://img.shields.io/badge/michihiro%20imaoka-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![michihiro imaoka](https://img.shields.io/badge/michihiro%20imaoka-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** This summer, Michihiro Imaoka presented IR-BadUSB at the Black Hat USA 2022 Arsenal. This IR-BadUSB allows an attacker to control a BadUSB plugged into a target's PC with an infrared remote control. Since this IR-BadUSB uses a household infrared remote control, the attacker and the IR-BadUSB must be within the infrared range of this remote control. Basically, the target and the attacker must be in the same room. Therefore, various improvements have been made to extend the reach of this IR-BadUSB.
@@ -34,7 +34,7 @@ Operating the IR-BadUSB with an infrared laser beam does not require a PC or oth
 
 <details><summary><strong>hacking tools</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![ade saputra](https://img.shields.io/badge/ade%20saputra-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![ade saputra](https://img.shields.io/badge/ade%20saputra-informational)
 
 🔗 **Link:** [hacking tools](https://github.com/orgs/openswoole/followers)  
 📝 **Description:** 1. COUNTABLE NOUN
@@ -56,7 +56,7 @@ Synonyms: means, the agency [old-fashioned], vehicle, medium More Synonyms of to
 ## 🌐 Web/AppSec or Red Teaming
 <details><summary><strong>AppsecStudy - open-source elearning management system for information security</strong></summary>
 
-![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Ivan Iushkevich](https://img.shields.io/badge/Ivan%20Iushkevich-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Ivan Iushkevich](https://img.shields.io/badge/Ivan%20Iushkevich-informational)
 
 🔗 **Link:** [AppsecStudy - open-source elearning management system for information security](https://github.com/zzzteph)  
 📝 **Description:** AppsecStudy is an open-source platform for seminars, training, and organizing courses for practical information security for developers and IT specialists. This tool has all the built-in basic requirements needed for organizing normal and productive training.
@@ -67,7 +67,7 @@ Synonyms: means, the agency [old-fashioned], vehicle, medium More Synonyms of to
 ## 🌐 Web/AppSec
 <details><summary><strong>BlueMap</strong></summary>
 
-![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Maor Tal](https://img.shields.io/badge/Maor%20Tal-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Maor Tal](https://img.shields.io/badge/Maor%20Tal-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -76,7 +76,7 @@ Synonyms: means, the agency [old-fashioned], vehicle, medium More Synonyms of to
 
 <details><summary><strong>c{api}tal - Learn OWASP API Security Top 10 by playing with vulnerable by design application</strong></summary>
 
-![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Lior Kaplan](https://img.shields.io/badge/Lior%20Kaplan-informational) ![Ravid Mazon](https://img.shields.io/badge/Ravid%20Mazon-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Lior Kaplan](https://img.shields.io/badge/Lior%20Kaplan-informational) ![Ravid Mazon](https://img.shields.io/badge/Ravid%20Mazon-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** APIs are a critical part of modern mobile, SaaS, and web applications and can be found in customer-facing, partner-facing, and internal applications.
@@ -103,7 +103,7 @@ In this session, you will learn about:
 ## 🔴 Red Teaming
 <details><summary><strong>Codecepticon - One Obfuscator to Rule Them All</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Pavel Tsakalidis](https://img.shields.io/badge/Pavel%20Tsakalidis-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Pavel Tsakalidis](https://img.shields.io/badge/Pavel%20Tsakalidis-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Codecepticon is an obfuscator that works with C#, PowerShell, and VBA (macros), and has been battle-tested for the last 1.5yr against modern ERD and AV technologies with great success. It supports a variety of obfuscation techniques such as renaming classes, and functions, rewriting strings and the tool's command line arguments, and even generating "English sounding" variable names using Markov chains. Instead of targeting compiled executables/assemblies, it focuses on the source code and utilizes Roslyn for C#, PS Automation for PowerShell, and ANTLR for VBA, in order to achieve the best possible result.
@@ -112,7 +112,7 @@ In this session, you will learn about:
 
 <details><summary><strong>Dragnmove: Infect Shared Files In Memory for Lateral Movement</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Baris Akkaya](https://img.shields.io/badge/Baris%20Akkaya-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Baris Akkaya](https://img.shields.io/badge/Baris%20Akkaya-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** People share files with each other every day using different applications like email clients, chat applications, browsers, etc. These channels are commonly used for lateral movement usually in the context of internal phishing. Dragnmove tool provides a different approach to abuse file sharing in order to move laterally in the target environment. Dragnmove can be used to inject payloads into the files that are being sent without touching the files in the file system.
@@ -125,7 +125,7 @@ When a compromised user starts the sharing process, Dragnmove can modify files i
 
 <details><summary><strong>EmoLoad: Loading Emotet Modules without Emotet</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Oleg Boyarchuk](https://img.shields.io/badge/Oleg%20Boyarchuk-informational) ![Stefano Ortolani](https://img.shields.io/badge/Stefano%20Ortolani-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Oleg Boyarchuk](https://img.shields.io/badge/Oleg%20Boyarchuk-informational) ![Stefano Ortolani](https://img.shields.io/badge/Stefano%20Ortolani-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -134,7 +134,7 @@ When a compromised user starts the sharing process, Dragnmove can modify files i
 
 <details><summary><strong>Exegol</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Charlie Bromberg](https://img.shields.io/badge/Charlie%20Bromberg-informational) ![Mathieu Calemard du Gardin](https://img.shields.io/badge/Mathieu%20Calemard%20du%20Gardin-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Charlie Bromberg](https://img.shields.io/badge/Charlie%20Bromberg-informational) ![Mathieu Calemard du Gardin](https://img.shields.io/badge/Mathieu%20Calemard%20du%20Gardin-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Exegol is a free and open-source pentesting environment made for professionals. It allows pentesters to conduct their engagements in a fast, effective, secure and flexible way. Exegol is a set of pre-configured and finely tuned docker images that can be used with a user-friendly Python wrapper to deploy dedicated and disposable environments in seconds.
@@ -143,7 +143,7 @@ When a compromised user starts the sharing process, Dragnmove can modify files i
 
 <details><summary><strong>Invoke-DNSteal: Exfiltrating DNS information "Like a Boss"</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Joel Gámez](https://img.shields.io/badge/Joel%20Gámez-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Joel Gámez](https://img.shields.io/badge/Joel%20Gámez-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -152,7 +152,7 @@ When a compromised user starts the sharing process, Dragnmove can modify files i
 
 <details><summary><strong>JavaScript Obfuscation - It's All About the P-a-c-k-e-r-s</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Or Katz](https://img.shields.io/badge/Or%20Katz-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Or Katz](https://img.shields.io/badge/Or%20Katz-informational)
 
 🔗 **Link:** [JavaScript Obfuscation - It's All About the P-a-c-k-e-r-s](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Web.md)  
 📝 **Description:** The usage of JavaScript obfuscation techniques have become prevalent in today's threats, from phishing pages, to Magecart, and supply chain injection to JavaScript malware droppers all use JavaScript obfuscation techniques on some level.
@@ -171,7 +171,7 @@ The showcase will also suggest techniques showing how the tool obfuscation detec
 
 <details><summary><strong>Mr.SIP: SIP-Based Audit and Attack Tool</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ismail Melih Tas](https://img.shields.io/badge/Ismail%20Melih%20Tas-informational) ![Neslisah Topcu](https://img.shields.io/badge/Neslisah%20Topcu-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ismail Melih Tas](https://img.shields.io/badge/Ismail%20Melih%20Tas-informational) ![Neslisah Topcu](https://img.shields.io/badge/Neslisah%20Topcu-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Mr.SIP Pro is a comprehensive attack-oriented VoIP product developed to simulate VoIP-based attacks and audit VoIP networks and applications from a security perspective. Originally it was developed to be used in academic work to support developing novel SIP-based attacks and then as an idea to convert it to a fully functional SIP-based penetration testing tool. So far Mr.SIP resulted in several academic research papers and journal articles and won first prizes in various cyber security competitions. Mr.SIP can also be used as a SIP client simulator and SIP traffic generator.
@@ -191,7 +191,7 @@ Utility Modules: IP Spoofing Engine, Message Generator, GUI
 
 <details><summary><strong>OMLASP - Open Machine Learning Application Security Project</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Francisco Jose Ramirez Vicente](https://img.shields.io/badge/Francisco%20Jose%20Ramirez%20Vicente-informational) ![Pablo Gonzalez Perez](https://img.shields.io/badge/Pablo%20Gonzalez%20Perez-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Francisco Jose Ramirez Vicente](https://img.shields.io/badge/Francisco%20Jose%20Ramirez%20Vicente-informational) ![Pablo Gonzalez Perez](https://img.shields.io/badge/Pablo%20Gonzalez%20Perez-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Generally, when deploying applications that use Machine Learning or Deep Learning algorithms, only security audits check for common vulnerabilities. However, these algorithms are also exposed to other vulnerabilities or weaknesses that attackers could exploit. A framework, called OMLASP - Open Machine Learning Application Security Project, is being developed to gather a list of attack and mitigation techniques for these algorithms. This Framework aims to become a standard for auditing Machine Learning algorithms and has been divided into the following two sections:
@@ -204,7 +204,7 @@ Utility Modules: IP Spoofing Engine, Message Generator, GUI
 
 <details><summary><strong>Shoggoth: Asmjit Based Polymorphic Encryptor</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Furkan Goksel](https://img.shields.io/badge/Furkan%20Goksel-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Furkan Goksel](https://img.shields.io/badge/Furkan%20Goksel-informational)
 
 🔗 **Link:** [Shoggoth: Asmjit Based Polymorphic Encryptor](https://github.com/frkngksl)  
 📝 **Description:** From past to present, signature-based detection has been one of the first and most basic methods used to detect malicious files. Even today, every file written to the file system is first scanned using the signatures found in the database of security products. Therefore, when creating variants of a tool or a technique, one of the most used methods to prevent them from being captured by a single signature is Polymorphism.
@@ -217,7 +217,7 @@ For each encoding period of a binary, Shoggoth generates different encryption ro
 
 <details><summary><strong>ThunderCloud: Attack Cloud Without Keys!</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Shivankar Shivankar](https://img.shields.io/badge/Shivankar%20Shivankar-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Shivankar Shivankar](https://img.shields.io/badge/Shivankar%20Shivankar-informational)
 
 🔗 **Link:** [ThunderCloud: Attack Cloud Without Keys!](https://github.com/Rnalter/ThunderCloud)  
 📝 **Description:** "You can't audit a cloud environment without access keys!!".
@@ -249,7 +249,7 @@ ThunderCloud version 2 will now support GCP and Azure exploitation. Additionally
 ## 🔵 Blue Team & Detection
 <details><summary><strong>CQSysmon Toolkit: Advanced System Monitoring Toolkit</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Paula Januszkiewicz](https://img.shields.io/badge/Paula%20Januszkiewicz-informational) ![Mike Jankowski-Lorek](https://img.shields.io/badge/Mike%20Jankowski-Lorek-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Paula Januszkiewicz](https://img.shields.io/badge/Paula%20Januszkiewicz-informational) ![Mike Jankowski-Lorek](https://img.shields.io/badge/Mike%20Jankowski-Lorek-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Our toolkit has proven to be useful in the 25000 computers environment. It relies on a free Sysmon deployment and its goal is to boost information delivered by the original tool. CQSysmon Toolkit allows you to extract information about what processes have been running in the operating system, get their hashes and submit them into Virus Total for the forensic information about the malware cases. It also allows to extract information into spreadsheet about what types of network connections have been made: what is the destination IP address, which process was responsible for it and who is the owner of IP. The toolkit also allows to extract information about the current system configuration and compare it with the other servers and much more that allows to become familiar of what is going on in your operating system. There is a special bonus tool in a toolkit that allows to bypass some parts of the Sysmon with another tool that allows to spot that situation so that everything stays in control. CQSysmon Toolkit allows you to established detailed monitoring of the situation on your servers and it is a great complement to the existing forensic tools in your organization.
@@ -258,7 +258,7 @@ ThunderCloud version 2 will now support GCP and Azure exploitation. Additionally
 
 <details><summary><strong>h0neytr4p - How to catch the external threat actors with an easy to configure Honeypot.</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Subhash Popuri](https://img.shields.io/badge/Subhash%20Popuri-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Subhash Popuri](https://img.shields.io/badge/Subhash%20Popuri-informational)
 
 🔗 **Link:** [h0neytr4p - How to catch the external threat actors with an easy to configure Honeypot.](https://github.com/BSidesSG/2021)  
 📝 **Description:** Working for large clients, we realised that large enterprises don't have any mechanism to trap external threat actors primarily exploiting web vulnerabilities. They are still reliant on threat intel firms to block potential attacker IPs. Sure, there are honeypots but it's really hard and time taking to configure. The turnaround time for SOC teams to configure a honeypot for a recently disclosed vulnerability is very high, discouraging the use of the same. We aim to fix this by introducing a template based honeypot. Honeytrap is stateless, it understands patterns and it can be configured to catch complicated 0day or 1day vulnerability exploitation attempts within minutes. It empowers and encourages blue teams to put an active honeytrap network around the network which can be used to capture Indicators of compromise that can be used to block at the perimeter firewall. h0neytr4p comes in a light weight single binary deployment mode, takes either one or multiple templates as input and has csv output mode which can be easily piped onto custom tools. Currently, it supports HTTP and HTTPS only but the plan is to make it a unified platform that supports SSH, RDP or any other protocols spanning multiple scenarios.
@@ -267,7 +267,7 @@ ThunderCloud version 2 will now support GCP and Azure exploitation. Additionally
 
 <details><summary><strong>Mimicry: An Active Deception Tool</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![chaoxin wan](https://img.shields.io/badge/chaoxin%20wan-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![chaoxin wan](https://img.shields.io/badge/chaoxin%20wan-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** In incident response scenarios, intercepting attacks or quarantining backdoors is a common response technique. The adversarial active defense will immediately make the attacker perceive that the intrusion behavior is exposed, and the attacker may try to use defense evasion to avoid subsequent detection. These defense evasion may even result in later attacks going undetected. If we mislead or deceive the attacker into the honeypot, we can better consume the attacker's time cost and gain more response time.
@@ -287,7 +287,7 @@ Command & Control:
 
 <details><summary><strong>Packing-Box: Playing with Executable Packing</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Alexandre D'Hondt](https://img.shields.io/badge/Alexandre%20D'Hondt-informational) ![Charles-Henry Bertrand Van Ouytsel](https://img.shields.io/badge/Charles-Henry%20Bertrand%20Van%20Ouytsel-informational) ![Axel Legay](https://img.shields.io/badge/Axel%20Legay-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Alexandre D'Hondt](https://img.shields.io/badge/Alexandre%20D'Hondt-informational) ![Charles-Henry Bertrand Van Ouytsel](https://img.shields.io/badge/Charles-Henry%20Bertrand%20Van%20Ouytsel-informational) ![Axel Legay](https://img.shields.io/badge/Axel%20Legay-informational)
 
 🔗 **Link:** [Packing-Box: Playing with Executable Packing](https://github.com/packing-box/docker-packing-box/blob/main/CITATIONS.bib)  
 📝 **Description:** This Docker image is an experimental toolkit gathering detectors, packers, tools and machine learning mechanics for making datasets of packed executables and training machine learning models for the static detection of packing. It aims to support PE, ELF and Mach-O executables and to study the best static features that can be used in learning-based static detectors.
@@ -296,7 +296,7 @@ Command & Control:
 
 <details><summary><strong>The Eye of Falco: You can escape but not hide</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Stefano Chierici](https://img.shields.io/badge/Stefano%20Chierici-informational) ![Lorenzo Susini](https://img.shields.io/badge/Lorenzo%20Susini-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Stefano Chierici](https://img.shields.io/badge/Stefano%20Chierici-informational) ![Lorenzo Susini](https://img.shields.io/badge/Lorenzo%20Susini-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Container technologies rely on features like namespaces, cgroups, SecComp filters, and capabilities to isolate different services running on the same host. However, SPOILER ALERT: container isolation isn't bulletproof. Similar to other security environments, isolation is followed by red-teamer questions such as, "How can I de-isolate from this?"
@@ -315,7 +315,7 @@ In this talk, we explain how you can use Falco to detect and monitor container e
 ## 🔍 OSINT
 <details><summary><strong>Defascan: Defacement Scan and Alert</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Ayush Shrestha](https://img.shields.io/badge/Ayush%20Shrestha-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Ayush Shrestha](https://img.shields.io/badge/Ayush%20Shrestha-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Web server defacement is also a major problem especially for government sites. Therefore, this project intends to develop a web server defacement detection tool named DefaScan. This tool, DefaScan will detect a defaced website and notify about it.
@@ -324,7 +324,7 @@ In this talk, we explain how you can use Falco to detect and monitor container e
 
 <details><summary><strong>Scammer Detector (NFT Scam Activities Monitoring)</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Seyfullah KILIÇ](https://img.shields.io/badge/Seyfullah%20KILIÇ-informational) ![Besim ALTINOK](https://img.shields.io/badge/Besim%20ALTINOK-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Seyfullah KILIÇ](https://img.shields.io/badge/Seyfullah%20KILIÇ-informational) ![Besim ALTINOK](https://img.shields.io/badge/Besim%20ALTINOK-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** We protect NFT users and the community from spam, scam and phishing attacks. In this context, we provide this with 4 main modules. (SpamEye, SpamPolice, ScamNotify, and BroExt)
@@ -333,7 +333,7 @@ In this talk, we explain how you can use Falco to detect and monitor container e
 
 <details><summary><strong>SCMPrey: Supply Chain Reconstruction Tool</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Moshe Zioni](https://img.shields.io/badge/Moshe%20Zioni-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Moshe Zioni](https://img.shields.io/badge/Moshe%20Zioni-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Introducing SCMPrey, a threat intelligence tool to be used by either red or blue teams that would like to reconstruct and map-out repositories supply chain infrastructure, CI/CD system, build environment, packaged dependencies etc.
@@ -346,7 +346,7 @@ With this knowledge - ethical hackers will be able to spot attack surface and ho
 
 <details><summary><strong>shrewdeye - low hanging OSINT and reconnaissance</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Ivan Iushkevich](https://img.shields.io/badge/Ivan%20Iushkevich-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Ivan Iushkevich](https://img.shields.io/badge/Ivan%20Iushkevich-informational)
 
 🔗 **Link:** [shrewdeye - low hanging OSINT and reconnaissance](https://github.com/zzzteph)  
 📝 **Description:** The vulnerability searching process requires a lot of time. If you want to cover all the perimeter in an appropriate amount of time and get valuables, automation of routines is one of the cornerstones, that will help you to focus on more complex things.
@@ -356,7 +356,7 @@ shrewdeye - opensource web platform for continuous reconnaissance. It allows you
 
 <details><summary><strong>TSURUGI LINUX: DFIR INVESTIGATIONS, MALWARE ANALYSIS AND OSINT ACTIVITIES MADE EASY</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Giovanni Rattaro](https://img.shields.io/badge/Giovanni%20Rattaro-informational) ![Marco Giorgi](https://img.shields.io/badge/Marco%20Giorgi-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Giovanni Rattaro](https://img.shields.io/badge/Giovanni%20Rattaro-informational) ![Marco Giorgi](https://img.shields.io/badge/Marco%20Giorgi-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Any DFIR analyst knows that every day in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to a lack of internal information (like mastery of all IT architecture, having the logs or the right one...) and ready to use DFIR tools.
@@ -372,7 +372,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACKHAT 
 ## ⚙️ Miscellaneous / Lab Tools
 <details><summary><strong>Drone Threats and Countermeasures</strong></summary>
 
-![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Stephen Scott](https://img.shields.io/badge/Stephen%20Scott-informational) ![Steve Wright](https://img.shields.io/badge/Steve%20Wright-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Stephen Scott](https://img.shields.io/badge/Stephen%20Scott-informational) ![Steve Wright](https://img.shields.io/badge/Steve%20Wright-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -381,7 +381,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACKHAT 
 
 <details><summary><strong>Industrial Control Systems: Capture the Train!</strong></summary>
 
-![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Arnaud Soullié](https://img.shields.io/badge/Arnaud%20Soullié-informational) ![Dhruv Sharan](https://img.shields.io/badge/Dhruv%20Sharan-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Arnaud Soullié](https://img.shields.io/badge/Arnaud%20Soullié-informational) ![Dhruv Sharan](https://img.shields.io/badge/Dhruv%20Sharan-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -390,7 +390,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACKHAT 
 
 <details><summary><strong>Mining for Secrets: Repos, firmware, and more</strong></summary>
 
-![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Anthony Paimany](https://img.shields.io/badge/Anthony%20Paimany-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Anthony Paimany](https://img.shields.io/badge/Anthony%20Paimany-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -401,7 +401,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACKHAT 
 ## 🔴 Red Teaming / AppSec
 <details><summary><strong>Extensible Azure Security Tool</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![joosua santasalo](https://img.shields.io/badge/joosua%20santasalo-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![joosua santasalo](https://img.shields.io/badge/joosua%20santasalo-informational)
 
 🔗 **Link:** [Extensible Azure Security Tool](https://github.com/jsa2)  
 📝 **Description:** Extensible Azure Security Tool (Later referred to as E.A.S.T) is a tool for assessing Azure and to some extent Azure AD security controls. The primary use case of EAST is Security data collection for evaluation in Azure Assessments. This information (JSON content) can then be used in various reporting tools, which we use to further correlate and investigate the data.
@@ -410,7 +410,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACKHAT 
 
 <details><summary><strong>HazProne: Cloud Security Ed</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Staford Titus S](https://img.shields.io/badge/Staford%20Titus%20S-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Staford Titus S](https://img.shields.io/badge/Staford%20Titus%20S-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** HazProne is a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand AWS resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why!!
@@ -419,7 +419,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACKHAT 
 
 <details><summary><strong>Ipa-medit: Memory modification tool for iOS apps without Jailbreaking</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Taichi Kotake](https://img.shields.io/badge/Taichi%20Kotake-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Taichi Kotake](https://img.shields.io/badge/Taichi%20Kotake-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Ipa-medit is a memory search and patch tool for resigned ipa without jailbreaking. It supports iOS apps running on iPhone and Apple Silicon Mac. It was created for mobile game security testing. Many mobile games have jailbreak detection, but ipa-medit does not require jailbreaking, so memory modification can be done without bypassing the jailbreak detection.
@@ -434,7 +434,7 @@ GitHub: https://github.com/aktsk/ipa-medit
 
 <details><summary><strong>MI-X - Am I Exploitable?</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Ofri Ouzan](https://img.shields.io/badge/Ofri%20Ouzan-informational) ![Yotam Perkal](https://img.shields.io/badge/Yotam%20Perkal-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Ofri Ouzan](https://img.shields.io/badge/Ofri%20Ouzan-informational) ![Yotam Perkal](https://img.shields.io/badge/Yotam%20Perkal-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -443,7 +443,7 @@ GitHub: https://github.com/aktsk/ipa-medit
 
 <details><summary><strong>Prowler v3 the handy multi-cloud security tool</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Pepe Fagoaga](https://img.shields.io/badge/Pepe%20Fagoaga-informational) ![Nacho Rivera](https://img.shields.io/badge/Nacho%20Rivera-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Pepe Fagoaga](https://img.shields.io/badge/Pepe%20Fagoaga-informational) ![Nacho Rivera](https://img.shields.io/badge/Nacho%20Rivera-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None
@@ -454,7 +454,7 @@ GitHub: https://github.com/aktsk/ipa-medit
 ## 🟣 Red Teaming / Embedded
 <details><summary><strong>Remote Assessment and Proctoring using Intelligent Devices (RAPID)</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Weihan Goh](https://img.shields.io/badge/Weihan%20Goh-informational) ![Kin Ping Tse](https://img.shields.io/badge/Kin%20Ping%20Tse-informational) ![Jasmin Yi Yap](https://img.shields.io/badge/Jasmin%20Yi%20Yap-informational) ![Jubilian Hong Yi Ho](https://img.shields.io/badge/Jubilian%20Hong%20Yi%20Ho-informational) ![Daniel Zhonghao Tan](https://img.shields.io/badge/Daniel%20Zhonghao%20Tan-informational) ![Muhamed Fauzi Bin Abbas](https://img.shields.io/badge/Muhamed%20Fauzi%20Bin%20Abbas-informational) ![Arthur Wee Yeong Loo](https://img.shields.io/badge/Arthur%20Wee%20Yeong%20Loo-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Weihan Goh](https://img.shields.io/badge/Weihan%20Goh-informational) ![Kin Ping Tse](https://img.shields.io/badge/Kin%20Ping%20Tse-informational) ![Jasmin Yi Yap](https://img.shields.io/badge/Jasmin%20Yi%20Yap-informational) ![Jubilian Hong Yi Ho](https://img.shields.io/badge/Jubilian%20Hong%20Yi%20Ho-informational) ![Daniel Zhonghao Tan](https://img.shields.io/badge/Daniel%20Zhonghao%20Tan-informational) ![Muhamed Fauzi Bin Abbas](https://img.shields.io/badge/Muhamed%20Fauzi%20Bin%20Abbas-informational) ![Arthur Wee Yeong Loo](https://img.shields.io/badge/Arthur%20Wee%20Yeong%20Loo-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Many educational institutions have adopted online proctoring as a mean to conduct and ensure academic integrity during online assessments, spurred by the pandemic. Most of such remote assessment solutions are closed-source, and requires the installation of various libraries or dependencies; this introduces potential risk for students who would not be able to scrutinize, or have a say as to what is installed on their computers. Being closed source, such solutions can also be slow to react to mala fide actions to tamper and bypass measures put in place to deter cheating. In fact, one only needs to perform cursory searches online to find various ways to defeat some well-known closed-source remote assessment solutions.
@@ -467,7 +467,7 @@ Being a proof-of-concept, we envision extending our solution to support other po
 
 <details><summary><strong>RFQuack: A Versatile, Modular, RF Security Toolkit</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Federico Maggi](https://img.shields.io/badge/Federico%20Maggi-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Federico Maggi](https://img.shields.io/badge/Federico%20Maggi-informational)
 
 🔗 **Link:** [RFQuack: A Versatile, Modular, RF Security Toolkit](https://github.com/rfquack/RFQuack/blob/master/pyproject.toml)  
 📝 **Description:** Software-defined radios (SDRs) are indispensable for signal reconnaissance and physical-layer dissection, but despite we have advanced tools like Universal Radio Hacker, SDR-based approaches require substantial effort. Contrarily, RF dongles such as the popular Yard Stick One are easy to use and guarantee a deterministic physical-layer implementation. However, they're not very flexible, as each dongle is a static hardware system with a monolithic firmware. We present RFquack, an open-source tool and library firmware that combines the flexibility of a software-based approach with the determinism and performance of embedded RF frontends. RFquack is based on a multi-radio hardware system with swappable RF frontends, and a firmware that exposes a uniform, hardware-agnostic API. RFquack focuses on a structured firmware architecture that allows high- and low-level interaction with the RF frontends. It facilitates the development of host-side scripts and firmware plug-ins, to implement efficient data-processing pipelines or interactive protocols, thanks to the multi-radio support. RFquack has an IPython shell and 9 firmware modules for: spectrum scanning, automatic carrier detection and bitrate estimation, headless operation with remote management, in-flight packet filtering and manipulation, MouseJack, and RollJam (as examples). We used RFquack in high-schools to teach digital RF protocols, to setup RF hacking contests, and to analyze industrial-grade devices and key fobs, on which we found and reported 11 vulnerabilities in their RF protocols.
@@ -478,7 +478,7 @@ Being a proof-of-concept, we envision extending our solution to support other po
 ## 🧠 Reverse Engineering
 <details><summary><strong>Reversing MCU with Firmware Emulation</strong></summary>
 
-![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![KAI JERN LAU](https://img.shields.io/badge/KAI%20JERN%20LAU-informational) ![MuChen Su](https://img.shields.io/badge/MuChen%20Su-informational) ![Zheng Yu](https://img.shields.io/badge/Zheng%20Yu-informational) ![Anh Quynh NGUYEN](https://img.shields.io/badge/Anh%20Quynh%20NGUYEN-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![KAI JERN LAU](https://img.shields.io/badge/KAI%20JERN%20LAU-informational) ![MuChen Su](https://img.shields.io/badge/MuChen%20Su-informational) ![Zheng Yu](https://img.shields.io/badge/Zheng%20Yu-informational) ![Anh Quynh NGUYEN](https://img.shields.io/badge/Anh%20Quynh%20NGUYEN-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** A microcontroller unit (MCU) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. It is widely used in various types of devices, appliances, automobiles, and many more. Recently MCU security has been raised as a major concern among users and operators, as MCU vulnerabilities can be catastrophic. For this reason, it is important to audit MCU code for security issues. Unfortunately, due to the limited resources on MCU, the on-device test for MCU is not feasible. Besides, there are no emulation solutions able to provide a full instrumentation analysis platform for MCU firmware.
@@ -507,7 +507,7 @@ New code and demo will be released after the talk.
 
 <details><summary><strong>Unravelling the Mysteries of Shellcode with SHAREM: A Novel Emulator and Disassembler for Shellcode</strong></summary>
 
-![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![Bramwell Brizendine](https://img.shields.io/badge/Bramwell%20Brizendine-informational) ![Jake Hince](https://img.shields.io/badge/Jake%20Hince-informational) ![Shelby VandenHoek](https://img.shields.io/badge/Shelby%20VandenHoek-informational)
+![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![Bramwell Brizendine](https://img.shields.io/badge/Bramwell%20Brizendine-informational) ![Jake Hince](https://img.shields.io/badge/Jake%20Hince-informational) ![Shelby VandenHoek](https://img.shields.io/badge/Shelby%20VandenHoek-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** None

@@ -17,7 +17,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ## Others
 <details><summary><strong>APKiD: "PEiD" for Android Applications</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Eduardo Novella Lorente](https://img.shields.io/badge/Eduardo%20Novella%20Lorente-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Eduardo Novella Lorente](https://img.shields.io/badge/Eduardo%20Novella%20Lorente-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** APKiD is like "PEiD" for Android applications. It gives information on how an APK was built by fingerprinting compilers, packers, obfuscators, and protectors. The main idea behind the tool is to help provide context on how the APK was potentially built or changed after it was built. This is all context useful for attributing authorship and finding patterns.
@@ -42,7 +42,7 @@ Detecting Pirated and Malicious Android Apps with APKiD -> https://rednaga.io/20
 
 <details><summary><strong>CyBot: Open-Source Threat Intelligence Chat Bot (Bring the Threats)</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Tony Lee](https://img.shields.io/badge/Tony%20Lee-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Tony Lee](https://img.shields.io/badge/Tony%20Lee-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Threat intelligence chat bots are useful friends. They perform research for you and can even be note takers or central aggregators of information. However, it seems like most organizations want to design their own bot in isolation and keep it internal. To counter this trend, our goal was to create a repeatable process using a completely free open source framework, an inexpensive Raspberry Pi (or even virtual machine), and host a community-driven plugin framework to open up the world of threat intel chat bots to everyone from the average home user to the largest security operations center.
@@ -55,7 +55,7 @@ Best of all, if you know even a little bit of Python, you can help our collabora
 
 <details><summary><strong>Dexter: The Friendly Forensics Expert on the Coinbase Security Team</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Hayden Parker](https://img.shields.io/badge/Hayden%20Parker-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Hayden Parker](https://img.shields.io/badge/Hayden%20Parker-informational)
 
 🔗 **Link:** [Dexter: The Friendly Forensics Expert on the Coinbase Security Team](https://github.com/coinbase/dexter/blob/master/doc/dexter.md)  
 📝 **Description:** Sometimes you want to be able to pull forensic images off your production hosts, but you want to make sure you set that up correctly. If you don't, people might steal customer financial data or cryptocurrency private keys for hot wallets (or something else), and that would be a very bad day for you and for the cryptocurrency community. This talk introduces Dexter, a forensics tool for high security environments. Dexter makes sure that no single person can do scary forensics things, and that the scary results of the scary forensic things can only be read by people who aren't scary. I'll give an overview of the Coinbase production environment, data pipeline, and detection tooling to set the stage for when we might use Dexter. We will then walk through how Dexter works and do a demo that will totally work and not have any technical issues whatsoever.
@@ -64,7 +64,7 @@ Best of all, if you know even a little bit of Python, you can help our collabora
 
 <details><summary><strong>FACT 2.5: Firmware Analysis and Comparison Tool</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Peter Weidenbach](https://img.shields.io/badge/Peter%20Weidenbach-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Peter Weidenbach](https://img.shields.io/badge/Peter%20Weidenbach-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** The Firmware Analysis and Comparison Tool (FACT) is intended to automate firmware security analysis. Thereby, it shall be easy to use (web GUI), extend (plug-in system) and integrate (REST API). When analyzing Firmware, you face several challenges: unpacking, initial analysis, identifying changes towards other versions, find other firmware images that might share vulnerabilities you just found. FACT is able to automate many aspects of these challenges leading to a massive speed-up in the firmware analysis process. This means you can focus on the fun part of finding new vulnerabilities, whereas FACT does all the boring stuff for you.
@@ -73,7 +73,7 @@ Best of all, if you know even a little bit of Python, you can help our collabora
 
 <details><summary><strong>PandaWar: Hardware Security Multidimensional Attack and Defense Toolset</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![JIE FU](https://img.shields.io/badge/JIE%20FU-informational) ![Mingchuang Qin](https://img.shields.io/badge/Mingchuang%20Qin-informational) ![Kunzhe Chai](https://img.shields.io/badge/Kunzhe%20Chai-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![JIE FU](https://img.shields.io/badge/JIE%20FU-informational) ![Mingchuang Qin](https://img.shields.io/badge/Mingchuang%20Qin-informational) ![Kunzhe Chai](https://img.shields.io/badge/Kunzhe%20Chai-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** This is a hardware attack and defense tool platform. It will help you quickly master and implement a variety of hardware attack methods.
@@ -86,7 +86,7 @@ All open source, design idea, design concept, design method, code, schematic, PC
 
 <details><summary><strong>Uitkyk: Identifying Malware via Runtime Memory Analysis</strong></summary>
 
-![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Chris Le Roy](https://img.shields.io/badge/Chris%20Le%20Roy-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Chris Le Roy](https://img.shields.io/badge/Chris%20Le%20Roy-informational)
 
 🔗 **Link:** [Uitkyk: Identifying Malware via Runtime Memory Analysis](https://github.com/brompwnie/uitkyk)  
 📝 **Description:** Uitkyk is the first Android framework that allows for its implementers to identify Android malware according to the instantiated objects on the heap for a particular process. Uitkyk does not require the APK of the application to be scanned to be present to identify malicious behaviour but instead makes use of runtime memory analysis to detect behaviour which normally cannot be identified by static analysis of Android applications. Static analysis of Android applications is the default approach utilised to identify malicious applications however static analysis has certain shortcomings which Uitkyk addresses by targeting the heap. Uitkyk can be implemented as a standalone library or standalone application on mobile devices.
@@ -97,7 +97,7 @@ All open source, design idea, design concept, design method, code, schematic, PC
 ## 🔴 Red Teaming / AppSec
 <details><summary><strong>ART: Adversarial Robustness Toolbox for Machine Learning Models</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Irina Nicolae](https://img.shields.io/badge/Irina%20Nicolae-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Irina Nicolae](https://img.shields.io/badge/Irina%20Nicolae-informational)
 
 🔗 **Link:** [ART: Adversarial Robustness Toolbox for Machine Learning Models](https://github.com/Trusted-AI/adversarial-robustness-toolbox/wiki/Contributing)  
 📝 **Description:** Adversarial attacks of machine learning systems have become an indisputable threat. Attackers can compromise the training of machine learning models by injecting malicious data into the training set (so-called poisoning attacks) or by crafting adversarial samples that exploit the blind spots of machine learning models at test time (so-called evasion attacks). Adversarial attacks have been demonstrated in a number of different application domains, including malware detection, spam filtering, visual recognition, speech-to-text conversion, and natural language understanding. Devising comprehensive defences against poisoning and evasion attacks by adaptive adversaries is still an open challenge.
@@ -108,7 +108,7 @@ We will present the Adversarial Robustness Toolbox (ART), a library which allows
 
 <details><summary><strong>Deep Exploit: Fully Automatic Penetration Test Tool Using Machine Learning</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Isao Takaesu](https://img.shields.io/badge/Isao%20Takaesu-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Isao Takaesu](https://img.shields.io/badge/Isao%20Takaesu-informational)
 
 🔗 **Link:** [Deep Exploit: Fully Automatic Penetration Test Tool Using Machine Learning](https://github.com/TheDreamPort/deep_exploit)  
 📝 **Description:** DeepExploit is fully automated penetration tool linked with Metasploit. It identifies the status of all opened ports on the target server and executes the exploit at pinpoint using Machine Learning.
@@ -148,7 +148,7 @@ Source Code:: https://github.com/13o-bbr-bbq/machine_learning_security/tree/mast
 
 <details><summary><strong>Lucky CAT: A Distributed Fuzzing Management Framework</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Thomas Barabosch](https://img.shields.io/badge/Thomas%20Barabosch-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Thomas Barabosch](https://img.shields.io/badge/Thomas%20Barabosch-informational)
 
 🔗 **Link:** [Lucky CAT: A Distributed Fuzzing Management Framework](https://github.com/fkie-cad/LuckyCAT)  
 📝 **Description:** Lucky CAT (Crash All the Things!) is a distributed fuzzing framework with an easy to use web interface. It allows management of fuzzing jobs on several remote machines concurrently. Lucky CAT aims to be easily usable, scaleable, extensible, and fun. To achieve this, it is built using several micro services and it relies on many open source projects. Furthermore, it offers a RESTful API to automate it or to integrate it with other tools.
@@ -165,7 +165,7 @@ Source Code: https://github.com/fkie-cad/LuckyCAT
 
 <details><summary><strong>PingCastle: An Active Directory Security Tool</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Vincent Le Toux](https://img.shields.io/badge/Vincent%20Le%20Toux-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Vincent Le Toux](https://img.shields.io/badge/Vincent%20Le%20Toux-informational)
 
 🔗 **Link:** [PingCastle: An Active Directory Security Tool](https://github.com/netwrix/pingcastle)  
 📝 **Description:** So many tools that exist to assess Active Directory security, and yet, it is impossible to have an overview of all. PingCastle has been designed to tackle these difficulties and get results fast and without any requirements. Healthcheck mode is the most well-known mode that gives vulnerability reports in minutes regarding major AD vulnerabilities. But what if the most important point was to convince the management that AD security is not that simple? PingCastle is more than a vulnerability scanner. This demo will include scanners, cartography and secret tricks.
@@ -174,7 +174,7 @@ Source Code: https://github.com/fkie-cad/LuckyCAT
 
 <details><summary><strong>Prowler: Cloud Security Assessment, Auditing, Hardening, Compliance and Forensics Readiness Tool</strong></summary>
 
-![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Toni de la Fuente](https://img.shields.io/badge/Toni%20de%20la%20Fuente-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Toni de la Fuente](https://img.shields.io/badge/Toni%20de%20la%20Fuente-informational)
 
 🔗 **Link:** [Prowler: Cloud Security Assessment, Auditing, Hardening, Compliance and Forensics Readiness Tool](https://github.com/prowler-cloud/prowler)  
 📝 **Description:** Prowler helps to assess, audit and harden your AWS account configuration and resources. It also helps to check your configuration with CIS recommendations, and check if your cloud infrastructure is GDPR compliance or if you are ready for a proper forensic investigation. It is a command line tool that provides direct and clear information about configuration status related to security of a given AWS account, it performs more than 80 checks.
@@ -185,7 +185,7 @@ Source Code: https://github.com/fkie-cad/LuckyCAT
 ## 🔵 Blue Team & Detection
 <details><summary><strong>ATT&CK Framework: Endpoint Detection Super Powers on the Cheap with Sysmon and Splunk</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Olaf Hartong](https://img.shields.io/badge/Olaf%20Hartong-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Olaf Hartong](https://img.shields.io/badge/Olaf%20Hartong-informational)
 
 🔗 **Link:** [ATT&CK Framework: Endpoint Detection Super Powers on the Cheap with Sysmon and Splunk](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/L-SM-TH.md)  
 📝 **Description:** By using the ATT&CK framework as a basis for hunting the likelihood of catching at least part of the attackers trail is significantly increased. To make use of this rich data source I will demonstrate a Threat Hunting application which will guide your investigation along all covered ATT&CK techniques.
@@ -199,7 +199,7 @@ Knowledge is power; the workflow has been intentionally built on generic searche
 
 <details><summary><strong>CCAT: Cisco Config Analysis Tool</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Mikhail Driagunov](https://img.shields.io/badge/Mikhail%20Driagunov-informational) ![Natalia Khodukina](https://img.shields.io/badge/Natalia%20Khodukina-informational) ![Nikita Loginov](https://img.shields.io/badge/Nikita%20Loginov-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Mikhail Driagunov](https://img.shields.io/badge/Mikhail%20Driagunov-informational) ![Natalia Khodukina](https://img.shields.io/badge/Natalia%20Khodukina-informational) ![Nikita Loginov](https://img.shields.io/badge/Nikita%20Loginov-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** CCAT is designed for finding security misconfigurations in Cisco devices. It generates a detailed report with explanations and tips on fixing the issues. We will implement an option to automatically fix those issues in one of our next updates.
@@ -211,7 +211,7 @@ GitHub: https://github.com/cisco-config-analysis-tool/ccat
 
 <details><summary><strong>Cloud Security Suite: One Stop Tool forAWS/GCP/Azure Security Audit</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Jayesh Chauhan](https://img.shields.io/badge/Jayesh%20Chauhan-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Jayesh Chauhan](https://img.shields.io/badge/Jayesh%20Chauhan-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** While AWS, GCP & Azure provide protection with traditional security methodologies and have a neat structure for authorization/configuration, their security is as robust as the person in-charge of creating/assigning these configuration policies. As we all know, human error is inevitable and any such human mistake could lead to catastrophic damage to the environment.
@@ -234,7 +234,7 @@ CS Suite is a one stop tool for auditing the security posture of the AWS/GCP/Azu
 
 <details><summary><strong>Drosera: Using Wireless Honeypot to Protect Wireless Networks</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Yunfei Yang](https://img.shields.io/badge/Yunfei%20Yang-informational) ![Yongtao Wang](https://img.shields.io/badge/Yongtao%20Wang-informational) ![Hongjian Cao](https://img.shields.io/badge/Hongjian%20Cao-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Yunfei Yang](https://img.shields.io/badge/Yunfei%20Yang-informational) ![Yongtao Wang](https://img.shields.io/badge/Yongtao%20Wang-informational) ![Hongjian Cao](https://img.shields.io/badge/Hongjian%20Cao-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Drosera is a wireless honeypot platform for discovering wireless intrusion attacks and intruders identification.
@@ -247,7 +247,7 @@ We are equipped with high-interactive Windows and Linux honeypots in the network
 
 <details><summary><strong>goKey: Reclaim Back Keys for Your Kingdom - A Vaultless Password Manager</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Ignat Korchagin](https://img.shields.io/badge/Ignat%20Korchagin-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Ignat Korchagin](https://img.shields.io/badge/Ignat%20Korchagin-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** The password is the oldest and most widely used pillar of authentication. We use passwords everywhere: from everyday online shopping to accessing government services and managing our money. Every day, the number of online services increases and each of service most likely requires a password to use it.
@@ -268,7 +268,7 @@ GitHub: https://github.com/cloudflare/gokey
 
 <details><summary><strong>Real-Time AD Attack Detection: Detect Attacks Leveraging Domain Administrator Privilege</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Wataru Matsuda](https://img.shields.io/badge/Wataru%20Matsuda-informational) ![Mariko Fujimoto](https://img.shields.io/badge/Mariko%20Fujimoto-informational) ![Takuho Mitsunaga](https://img.shields.io/badge/Takuho%20Mitsunaga-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Wataru Matsuda](https://img.shields.io/badge/Wataru%20Matsuda-informational) ![Mariko Fujimoto](https://img.shields.io/badge/Mariko%20Fujimoto-informational) ![Takuho Mitsunaga](https://img.shields.io/badge/Takuho%20Mitsunaga-informational)
 
 🔗 **Link:** [Real-Time AD Attack Detection: Detect Attacks Leveraging Domain Administrator Privilege](https://github.com/0xe7/WonkaVision)  
 📝 **Description:** In Advanced Persistent Threat (APT) attacks, attackers tend to attack the Active Directory to expand infections. Attackers try to take over Domain Administrator privileges and create a backdoor called the "Golden Ticket". Attackers leverage this Golden Ticket to disguise themselves as legitimate accounts and obtain long-term administrator privilege. However, detecting attacks that use this method is quite difficult because the attackers' use of legitimate accounts and commands are not identified as anomalies.
@@ -289,7 +289,7 @@ Presentation: ﻿https://github.com/sisoc-tokyo/Real-timeDetectionAD/blob/master
 
 <details><summary><strong>SNDBOX: The Artificial Intelligence Malware Research Platform</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Ran Dubin](https://img.shields.io/badge/Ran%20Dubin-informational) ![Ariel Koren](https://img.shields.io/badge/Ariel%20Koren-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Ran Dubin](https://img.shields.io/badge/Ran%20Dubin-informational) ![Ariel Koren](https://img.shields.io/badge/Ariel%20Koren-informational)
 
 🔗 **Link:** [SNDBOX: The Artificial Intelligence Malware Research Platform](https://github.com/FOSDEM/video-meta/blob/master/fosdem2017/released.yml)  
 📝 **Description:** SNDBOX is the world's first Artificial Intelligence (AI) malware research platform designed to scale up research time. Developed by researchers for researchers, SNDBOX offers never-seen-before malware analysis visibility powered by kernel mode next generation sandbox. Multiple AI detection vectors work alongside our big data malware similarity engine to reduce false positive classification errors. Behavioral signatures, multi-vector deep learning classifiers and multiple AI similarity search engines seamlessly work together to provide high visibility and data-driven explanations to scale malware research capabilities and reduce research time. Furthermore, with full access to our data, all levels of your team can leverage information necessary for complete malware remediation and new research possibilities, while sharing insights, public samples and IOC's through our community platform.
@@ -298,7 +298,7 @@ Presentation: ﻿https://github.com/sisoc-tokyo/Real-timeDetectionAD/blob/master
 
 <details><summary><strong>tknk_scanner: Community-Based Integrated Malware Identification System</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Shota Nakajima](https://img.shields.io/badge/Shota%20Nakajima-informational) ![Keita Nomura](https://img.shields.io/badge/Keita%20Nomura-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Shota Nakajima](https://img.shields.io/badge/Shota%20Nakajima-informational) ![Keita Nomura](https://img.shields.io/badge/Keita%20Nomura-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** The original code of a malware must be scanned using YARA rules after processing with a debugger (or other means) to account for obfuscated malware binaries. This is a complicated process and requires an extensive malware analysis environment. The tknk_scanner is a community-based integrated malware identification system, which aims to easily identify malware families by automating this process using an integration of open source community-based tools and freeware. The original malware code can be scanned with with your own YARA rules by submitting the malware in PE format to the scanner. tknk_scanner can thus support surface analysis performed by SOC operators, CSIRT members, and malware analysts.
@@ -307,7 +307,7 @@ Presentation: ﻿https://github.com/sisoc-tokyo/Real-timeDetectionAD/blob/master
 
 <details><summary><strong>VirusTotal Graph: Investigation</strong></summary>
 
-![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Daniel Sanchez](https://img.shields.io/badge/Daniel%20Sanchez-informational) ![Karl Hiramoto](https://img.shields.io/badge/Karl%20Hiramoto-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Daniel Sanchez](https://img.shields.io/badge/Daniel%20Sanchez-informational) ![Karl Hiramoto](https://img.shields.io/badge/Karl%20Hiramoto-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** VirusTotal Graph is a free visualization tool built on top of the VirusTotal data set. It understands the relationship between files, urls, domains and ip addresses and it provides an easy interface to pivot and navigate over them. The tool is available for individual researchers and security professionals.
@@ -326,7 +326,7 @@ Demo video: https://www.youtube.com/watch?v=QEqHXU04IkI&feature=youtu.be
 ## 🔴 Red Teaming
 <details><summary><strong>AttackForge.com: Giving Time Back To Pentesters - More Breaking, Less Reporting</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Fil Filiposki](https://img.shields.io/badge/Fil%20Filiposki-informational) ![Stas Filshtinskiy](https://img.shields.io/badge/Stas%20Filshtinskiy-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Fil Filiposki](https://img.shields.io/badge/Fil%20Filiposki-informational) ![Stas Filshtinskiy](https://img.shields.io/badge/Stas%20Filshtinskiy-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Pentesters love what they do – breaking things. But there’s no denying that Penetration Testing as a practice itself is broken. Pentesters have only few days to a) learn how an entirely new system works under the hood; b) with this knowledge, learn some more so they can figure out how to break the system; c) try countless different ways to break the system or make it do things never intended or designed by the architects and developers; then d) write an executive and technical report to explain how they did it.
@@ -339,7 +339,7 @@ We can’t fix all of these problems, but we have found a way to take some press
 
 <details><summary><strong>CoffeeShot: Memory Injection to Avoid Detection</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Asaf Aprozper](https://img.shields.io/badge/Asaf%20Aprozper-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Asaf Aprozper](https://img.shields.io/badge/Asaf%20Aprozper-informational)
 
 🔗 **Link:** [CoffeeShot: Memory Injection to Avoid Detection](https://github.com/MinervaLabsResearch/CoffeeShot)  
 📝 **Description:** CoffeeShot is an evasion framework that designed for creating Java-based malware which bypasses most of the anti-virus vendors. The framework utilizes JNA (Java Native Access) to look for a victim process, once it finds it - a shellcode will be injected directly from the Java Archive file (JAR).
@@ -352,7 +352,7 @@ On the other hand, CoffeeShot can be applied by penetration testers as well. The
 
 <details><summary><strong>iBombShell: Dynamic Remote Shell</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Pablo Gonzalez Perez](https://img.shields.io/badge/Pablo%20Gonzalez%20Perez-informational) ![Álvaro Nuñez-Romero](https://img.shields.io/badge/Álvaro%20Nuñez-Romero-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Pablo Gonzalez Perez](https://img.shields.io/badge/Pablo%20Gonzalez%20Perez-informational) ![Álvaro Nuñez-Romero](https://img.shields.io/badge/Álvaro%20Nuñez-Romero-informational)
 
 🔗 **Link:** [iBombShell: Dynamic Remote Shell](https://github.com/Matir/jspassphrase/blob/master/wordlist.json)  
 📝 **Description:** The emergence of PowerShell within pentesting post-exploitation is important. Its flexibility, possibilities and power make this Microsoft´s command line an efficient post-exploitation tool. In scenarios where we cannot use neither install pentesting techniques this tool acquires special relevance. iBombShell gives access to a pentesting repository where the pentester could use any function oriented to the post-exploitation phase and, in some cases, exploit vulnerabilities. iBombShell is a remote pentesting Shell that loads itself automatically in memory offering unlimited tools for the pentester.
@@ -367,7 +367,7 @@ In addition, iBombShell allows a second way of execution called Silently. Using 
 
 <details><summary><strong>NetRipper: Smart Traffic Sniffing for PenetrationTesters</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ionut Gabriel Popescu](https://img.shields.io/badge/Ionut%20Gabriel%20Popescu-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ionut Gabriel Popescu](https://img.shields.io/badge/Ionut%20Gabriel%20Popescu-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** NetRipper is a post-exploitation tool targeting Windows systems which uses API hooking in order to intercept network traffic. It also uses encryption-related functions from a low privileged user, making it able to capture both plain-text traffic and encrypted traffic before encryption/after decryption.
@@ -376,7 +376,7 @@ In addition, iBombShell allows a second way of execution called Silently. Using 
 
 <details><summary><strong>OWASP Nettacker: Automated Penetration Testing Framework</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ali Razmjoo Qalaei](https://img.shields.io/badge/Ali%20Razmjoo%20Qalaei-informational) ![Mohammad Reza Espargham](https://img.shields.io/badge/Mohammad%20Reza%20Espargham-informational) ![Abbas Naderi Afooshteh](https://img.shields.io/badge/Abbas%20Naderi%20Afooshteh-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ali Razmjoo Qalaei](https://img.shields.io/badge/Ali%20Razmjoo%20Qalaei-informational) ![Mohammad Reza Espargham](https://img.shields.io/badge/Mohammad%20Reza%20Espargham-informational) ![Abbas Naderi Afooshteh](https://img.shields.io/badge/Abbas%20Naderi%20Afooshteh-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** OWASP Nettacker project is created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software will utilize TCP SYN, ACK, ICMP and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. By leveraging a unique method in OWASP Nettacker for discovering protected services and devices such as SCADA. It would make a competitive edge compared to other scanner making it one of the bests.
@@ -385,7 +385,7 @@ In addition, iBombShell allows a second way of execution called Silently. Using 
 
 <details><summary><strong>SCAVENGER: A Post-Exploitation Scanning/Mapping Tool</strong></summary>
 
-![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Philip Pieterse](https://img.shields.io/badge/Philip%20Pieterse-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Philip Pieterse](https://img.shields.io/badge/Philip%20Pieterse-informational)
 
 🔗 **Link:** [SCAVENGER: A Post-Exploitation Scanning/Mapping Tool](https://github.com/brianckeegan/Trailers/blob/master/joined_data.csv)  
 📝 **Description:** SCAVENGER is a multi-threaded post-exploitation scanning tool for mapping systems and finding "interesting" and most frequently used files, folders and services. Once credentials are gained, it can scan remote systems (Linux, Windows and OSX) via services like SMB and SSH to scrape that system looking for "interesting" things and then cache the result. SCAVENGER has the ability to find the newest files that have been accessed/modified/created and keep the result in an ordered database. Then, after time has passed, hours or days later the systems can be scanned again. SCAVENGER can then compare the previous list of "newest files" to the latest list of "newest files." This gives the user the ability to find the "interesting" and most frequently files used on that system, for example password files being accessed by an administrator or heavily used credit card database files.
@@ -402,7 +402,7 @@ Source Code: https://github.com/SpiderLabs/scavenger﻿
 ## 🧠 Reverse Engineering
 <details><summary><strong>CryptGrep: Rapidly Search a Cryptographic Function to Analyze Malware</strong></summary>
 
-![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![Hiroki Hada](https://img.shields.io/badge/Hiroki%20Hada-informational) ![Tomonori Ikuse](https://img.shields.io/badge/Tomonori%20Ikuse-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![Hiroki Hada](https://img.shields.io/badge/Hiroki%20Hada-informational) ![Tomonori Ikuse](https://img.shields.io/badge/Tomonori%20Ikuse-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** 'CryptGrep' is an IDA python script which makes it possible to search a cryptography function to analyze malware rapidly. There are many existing implementations such as 'FindCrypt' (http://www.hexblog.com/?p=28) and 'idascope' (https://github.com/nihilus/idascope) which take an approach to find cryptographic magic number statically.
@@ -417,7 +417,7 @@ We created several pre-set signatures for typical malware. The usage is very sim
 ## 🟣 Red Teaming / Embedded
 <details><summary><strong>IoT-Home-Guard: A Tool for Malicious Behavior Detection in IoT Devices</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Yuan Zhuang](https://img.shields.io/badge/Yuan%20Zhuang-informational) ![Qinghao Tang](https://img.shields.io/badge/Qinghao%20Tang-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Yuan Zhuang](https://img.shields.io/badge/Yuan%20Zhuang-informational) ![Qinghao Tang](https://img.shields.io/badge/Qinghao%20Tang-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** IoT devices, especially secondhand devices and rental devices, are under threat of malware implant attack with physical access. Once IoT devices are compromised, hackers can turn them into snooping devices. From a defensive perspective, there are no solutions to detect Trojans in IoT devices.
@@ -432,7 +432,7 @@ The first generation IoT-Home-Guard tool is a hardware device based on Raspberry
 
 <details><summary><strong>IoT-Implant-Toolkit: Framework for Trojans Implantation Research of IoT Devices</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Jiawei Cao](https://img.shields.io/badge/Jiawei%20Cao-informational) ![Qinghao Tang](https://img.shields.io/badge/Qinghao%20Tang-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Jiawei Cao](https://img.shields.io/badge/Jiawei%20Cao-informational) ![Qinghao Tang](https://img.shields.io/badge/Qinghao%20Tang-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** During our Trojans implantation research for IoT devices, we found many tools outdated and not compatible with high versions. We present IoT-Implant-Toolkit, a framework for Trojans implantation research of IoT devices. It is a toolkit consisting of essential software tools on firmware modification, serial port debugging, software analysis and stable spy clients. We wrapped tools we proved useable in the framework and provided a universal call interface. Additionally, we packed useful open-source tools we developed into the framework. Each software tool acts as a plugin which can be easily added into the framework. With an easy-to-use and extensible shell-like environment, IoT-Implant-Toolkit is a one-stop-shop toolkit simplifying complex procedure of IoT malware implantation.
@@ -445,7 +445,7 @@ IoT-Implant-Toolkit is open-source at https://github.com/arthastang/IoT-Implant-
 
 <details><summary><strong>IoXT Hunter: A Remote Discover & Pentest Tool for IoT Devices</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Hao Zhao](https://img.shields.io/badge/Hao%20Zhao-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Hao Zhao](https://img.shields.io/badge/Hao%20Zhao-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** IoXT Hunter is an open source, extendable, large-scale IoT device remote discovery and pentest tool. It is designed to discover all known IoT devices for a specified range of network addresses and to perform security testing on related IoT devices using generic or targeted payloads.
@@ -458,7 +458,7 @@ IoXT Hunter also supports writing and loading your own plugins extensions. If yo
 
 <details><summary><strong>RadioT Shield: A Radio Way to Protect Most of Your IoT Devices</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Hao Zhao](https://img.shields.io/badge/Hao%20Zhao-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Hao Zhao](https://img.shields.io/badge/Hao%20Zhao-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** RadioT Shield is an open source platform dedicated to detecting the attack of various IoT devices in a given space by radio communication data. RadioT Shield can detect a lot of radio-based IoT-related attacks, such as WIFI attacks, BLE attacks, GSM attacks, ZigBee attacks, etc. Unlike other IoT hardware and software security solutions, this system does not require any modification of the protected IoT device and does not affect the existing functionality of the device.
@@ -469,7 +469,7 @@ RadioT Shield is suitable for all IoT devices that use radio communications, eve
 
 <details><summary><strong>RPL Attacks Framework: Attacking RPL in WSNs</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Alexandre D'Hondt](https://img.shields.io/badge/Alexandre%20D'Hondt-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Alexandre D'Hondt](https://img.shields.io/badge/Alexandre%20D'Hondt-informational)
 
 🔗 **Link:** [RPL Attacks Framework: Attacking RPL in WSNs](https://github.com/wannadie/mendeley-parser/blob/master/output/electrical-and-electronic-engineering/electrical-and-electronic-engineering-p.csv)  
 📝 **Description:** This tool is a framework for attacking the Routing Protocol for Low power and lossy networks (RPL) implementation of Contiki for Wireless Sensor Networks (WSN).
@@ -480,7 +480,7 @@ Presentation: https://github.com/dhondta/rpl-attacks/raw/master/doc/bheu18-arsen
 
 <details><summary><strong>Universal Radio Hacker v2: Simulate Wireless Devices with Software Defined Radio</strong></summary>
 
-![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Johannes Pohl](https://img.shields.io/badge/Johannes%20Pohl-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Johannes Pohl](https://img.shields.io/badge/Johannes%20Pohl-informational)
 
 🔗 **Link:** [Universal Radio Hacker v2: Simulate Wireless Devices with Software Defined Radio](https://github.com/jopohl/urh)  
 📝 **Description:** Wireless communication between Internet of Things (IoT) devices is, in many cases, built upon proprietary protocols designed under size and energy constraints. Vulnerabilties in such protocols are critical, e.g. an attacker breaks into a house by hacking a wireless door lock. Software Defined Radios (SDR) offer a generic way to investigate such protocols, but require software support when it comes to demodulating and decoding messages. The Universal Radio Hacker (URH) is an open source tool to support researchers when operating with SDRs by abstracting most of the required HF basics needed for demodulation. Furthermore, it assists reverse engineering the protocol format. While this works well for stateless and undirectional protocols, there are more sophisticated protocols on the market that can not be handled without state machine.
@@ -493,7 +493,7 @@ Version 2.0 of the Universal Radio Hacker introduces a Simulation tab that allow
 ## 🌐 Web/AppSec or Red Teaming
 <details><summary><strong>Kurukshetra: Playground for Interactive Security Learning</strong></summary>
 
-![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Anirudh Anand](https://img.shields.io/badge/Anirudh%20Anand-informational) ![Mohan Kallepalli](https://img.shields.io/badge/Mohan%20Kallepalli-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Anirudh Anand](https://img.shields.io/badge/Anirudh%20Anand-informational) ![Mohan Kallepalli](https://img.shields.io/badge/Mohan%20Kallepalli-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Kurukshetra is a web framework that's developed with the aim of being the first open source framework which provides a solid foundation to host reasonably complex secure coding challenges where developers can learn secure coding practices in a hands-on manner. It is composed of two components, the backend framework written in PHP, which manages and leverages the underlying docker system to provide the secure sandbox for the challenge execution, and the frontend, which is a user facing web app providing all the necessary controls, for the admin to host and modify the challenges, and the user to execute and view the result of each of his input.
@@ -504,7 +504,7 @@ The Framework currently supports challenges written in 4 major languages includi
 
 <details><summary><strong>Security Code Scan: Vulnerability Patterns Detector</strong></summary>
 
-![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Jaroslav Lobacevski](https://img.shields.io/badge/Jaroslav%20Lobacevski-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Jaroslav Lobacevski](https://img.shields.io/badge/Jaroslav%20Lobacevski-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Security Code Scan is static code analysis tool for C# and VB.NET. It detects various security vulnerability patterns: SQL and XPath injections, Cross-Site Request Forgery (CSRF), XML eXternal Entity Injection (XXE), unsafe deserialization and many more...
@@ -517,7 +517,7 @@ It is available as Visual Studio extension (2015 and higher), but can be integra
 ## 🔍 OSINT
 <details><summary><strong>Maltego: "Have I Been Pwned?""PwnedPasswords" and "FullContact"</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Christian Heinrich](https://img.shields.io/badge/Christian%20Heinrich-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Christian Heinrich](https://img.shields.io/badge/Christian%20Heinrich-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** “Have I been pwned?" allows you to search across multiple data breaches to see if your email addresses or aliases has been compromised by LinkedIn, MySpace, Dropbox, etc.
@@ -539,7 +539,7 @@ New tool to be released at Black Hat i.e. "FullContact"
 
 <details><summary><strong>Squatm3: Cybersquatting Made Easy</strong></summary>
 
-![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Davide Cioccia](https://img.shields.io/badge/Davide%20Cioccia-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Davide Cioccia](https://img.shields.io/badge/Davide%20Cioccia-informational)
 
 🔗 **Link:** Not Available  
 📝 **Description:** Squatm3 is a python tool designed to enumerate available domains generated modifying the original domain name through different techniques:
@@ -558,7 +558,7 @@ Presentation: https://www.dropbox.com/s/8r9t16s4x94iczu/blackhat-eu18-arsenal.pp
 ## 🌐 Web/AppSec
 <details><summary><strong>XSSER: From XSS to RCE 3.0</strong></summary>
 
-![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Hans-Michael Varbaek](https://img.shields.io/badge/Hans-Michael%20Varbaek-informational)
+![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Hans-Michael Varbaek](https://img.shields.io/badge/Hans-Michael%20Varbaek-informational)
 
 🔗 **Link:** [XSSER: From XSS to RCE 3.0](https://github.com/Varbaek/xsser)  
 📝 **Description:** This presentation demonstrates how an attacker can utilize XSS to execute arbitrary code on the web server when an administrative user inadvertently triggers a hidden XSS payload. Custom tools and payloads integrated with Metasploit's Meterpreter in a highly automated approach will be demonstrated live, including post-exploitation scenarios and interesting data that can be obtained from compromised web applications. This version includes more payloads for common web apps and various other improvements too!
