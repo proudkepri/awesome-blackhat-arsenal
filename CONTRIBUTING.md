@@ -1,4 +1,3 @@
-
 # 🧩 Contributing to Awesome Black Hat Arsenal
 
 We’re excited to have you contribute to this curated archive of cybersecurity tools from Black Hat Arsenal events. This guide explains how to add tools properly so they are auto-integrated into the list.
@@ -6,6 +5,8 @@ We’re excited to have you contribute to this curated archive of cybersecurity 
 ---
 
 ## 📁 Repository Structure
+
+The repository is organized by **location** and **year**. Each tool is placed in a specific folder based on these two criteria.
 
 ```
 
@@ -20,15 +21,15 @@ tools/
 
 ````
 
-- Tools are grouped by **location** (`USA`, `Europe`, `Asia`, etc.)
-- Then by **year** of the Black Hat event
-- Each tool is a single `.json` file inside its year folder
+- Tools are grouped by **location** (`USA`, `Europe`, `Asia`, etc.).
+- Then, tools are categorized by **year** of the Black Hat event.
+- Each tool is added as a `.json` file within its respective year folder.
 
 ---
 
 ## 🧠 Tool JSON Format
 
-Each `.json` file should be a dictionary with the following fields:
+Each `.json` file should contain the following fields:
 
 ```json
 {
@@ -42,17 +43,17 @@ Each `.json` file should be a dictionary with the following fields:
 
 ### Required Fields:
 
-* `Tool Name`: Name of the tool
-* `Description`: 1–3 sentence description (avoid marketing fluff)
-* `Tracks`: List of applicable track names, e.g. `"Track: Reverse Engineering"`
-* `Speakers`: Name(s) of the presenters (can be multiple)
-* `Github URL`: GitHub or official repo (if public)
+* `Tool Name`: The name of the tool.
+* `Description`: 1–3 sentence description (avoid marketing fluff).
+* `Tracks`: List of applicable track names (e.g., `"Track: Reverse Engineering"`).
+* `Speakers`: Name(s) of the presenters (can be multiple).
+* `Github URL`: Link to the tool's GitHub repository or official page (if public).
 
 ---
 
 ## ✅ Track Names
 
-Use one or more of the following valid track names:
+Use one or more of the following **valid track names**:
 
 * Track: Exploitation and Ethical Hacking
 * Track: Reverse Engineering
@@ -72,7 +73,7 @@ Use one or more of the following valid track names:
 * Track: Human Factors
 * Track: Arsenal Lab
 
-If a tool doesn’t fit any, just omit `Tracks`, and it will be placed in the `Uncategorized` section.
+If a tool doesn’t fit into any of these tracks, simply omit the `Tracks` field, and it will be placed in the `Other` section.
 
 ---
 
@@ -80,25 +81,71 @@ If a tool doesn’t fit any, just omit `Tracks`, and it will be placed in the `U
 
 Once you add a JSON file:
 
-* Ensure it opens without error in any JSON linter
-* Run the README generation script (or submit a PR and we’ll handle it)
+* **Validate the JSON format**: Ensure that the file opens without errors in a JSON linter.
+* **README generation**: Run the README generation script (or submit a PR, and we’ll handle it for you).
 
 ---
 
-## 🔁 Pull Requests
+## 🔁 Pull Requests (PRs)
 
-* One PR per tool or group of tools
-* PR title format: `Add Tool: Cool Exploit Framework (USA 2023)`
-* Make sure you're placing tools in the correct folder path
+To contribute your tool, follow these steps:
+
+### 1. **Fork the Repository**
+
+Click the "Fork" button at the top right of this repository to create a copy under your GitHub account.
+
+### 2. **Create a Branch**
+
+Once you have forked the repository, create a new branch for your changes. This helps us manage your contributions effectively.
+
+```bash
+git checkout -b add-tool-cool-exploit-framework
+```
+
+### 3. **Add the Tool JSON**
+
+* Create a new JSON file for your tool under the correct location and year (e.g., `tools/USA/2023/toolname.json`).
+* Ensure your file follows the correct format as explained above.
+
+### 4. **Submit a Pull Request**
+
+Once your changes are complete:
+
+* Commit your changes to your forked repository:
+
+  ```bash
+  git add .
+  git commit -m "Add Tool: Cool Exploit Framework (USA 2023)"
+  git push origin add-tool-cool-exploit-framework
+  ```
+
+* Open a pull request (PR) from your fork to the main repository. Use the following format for the PR title:
+
+  ```
+  Add Tool: Cool Exploit Framework (USA 2023)
+  ```
+
+  * **Make sure you're placing the tool in the correct folder** (e.g., `tools/USA/2023/`).
+  * **One PR per tool or group of tools** is required.
 
 ---
 
 ## 🧑‍💻 Questions?
 
-If you're unsure about track mapping or folder structure, open an issue or drop your question in the PR. We're happy to help.
+If you're unsure about track mapping, folder structure, or anything else, feel free to open an issue or ask in your PR. We’re here to help!
 
 ---
 
-Thank you for helping build the most complete and categorized arsenal of security tools online! 🛡️
+Thank you for contributing to building the most complete and categorized arsenal of cybersecurity tools! 🛡️
 
+---
+
+
+### Key Points for Submission:
+1. **Fork the Repository**: Click "Fork" at the top-right corner of the GitHub page.
+2. **Create a Branch**: Name your branch clearly based on the tool you’re adding.
+3. **Add the Tool JSON**: Place the JSON file in the correct year and location directory.
+4. **Commit & Push**: Commit your changes and push them to your forked repository.
+5. **PR Title Format**: Use the format `Add Tool: Cool Exploit Framework (USA 2023)` for your PR title.
+6. **Only One Tool per PR**: Keep one PR per tool or group of tools.
 
