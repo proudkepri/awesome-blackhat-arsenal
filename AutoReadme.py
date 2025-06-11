@@ -1,10 +1,3 @@
-# -------------------------------------------------------------
-# 🛡️ Awesome Black Hat Arsenal - JSON to README Generator Script
-# -------------------------------------------------------------
-# This script parses categorized JSON tool metadata under `tools/`,
-# generates location/year-based README files with Markdown formatting,
-# and updates the root README with navigable links and badges.
-
 import os
 import json
 from collections import defaultdict
@@ -13,7 +6,7 @@ from collections import defaultdict
 # 🔧 Configuration & Constants
 # -------------------------------
 ROOT_DIR = "tools"                # Root directory containing location/year folders
-MAIN_README = "README.md"        # Path for the main README
+MAIN_README = "README.md"         # Path for the main README
 
 # Category → (Label, Badge Color)
 CATEGORY_MAP = {
@@ -68,17 +61,26 @@ def sanitize_anchor(text):
 # 🏠 Generate Main README Header
 # -------------------------------
 main_readme = [
-    "# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-June%202025-blue)](https://github.com/yourusername/awesome-blackhat-arsenal)",
+    "# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-June%202025-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)",
+    "[![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)",
     "> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.",
     "",
     "Whether you're in red teaming, blue teaming, appsec, or OSINT — this list helps you explore and leverage the best tools demonstrated live by security professionals across the world.",
     "",
-    "📌 **How This List is Organized**",
+    "## Contents",
+    "1. [How This List Is Organized](#how-this-list-is-organized)", 
+    "2. [Locations](#locations)",
+    "   - [Asia](#asia)",
+    "   - [Canada](#canada)",
+    "   - [Europe](#europe)",
+    "   - [MEA](#mea)",
+    "   - [USA](#usa)",
+    "## How This List Is Organized", 
     "- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).",
     "- Under each location, tools are further organized by **year**.",
-    "- Inside each year’s section, you’ll find the tools organized **by track category**, each with descriptions, authors, and GitHub links (where available).",
+    "- Inside the section of every year, you will find the tools organized **by track category**, each with descriptions, authors, and GitHub links (where available).",
     "---",
-    "## 🌍 Locations"
+    "## Locations",
 ]
 
 # -------------------------------
@@ -95,7 +97,8 @@ for location in sorted(os.listdir(ROOT_DIR)):
         if not os.path.isdir(year_path):
             continue
 
-        rel_readme = f"{ROOT_DIR}/{location}/{year}/README.md"
+        # Use full-length links
+        rel_readme = f"https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/{ROOT_DIR}/{location}/{year}/README.md"
         main_readme.append(f"- [{year}]({rel_readme})")
 
         tools_by_category = defaultdict(list)
@@ -126,7 +129,6 @@ for location in sorted(os.listdir(ROOT_DIR)):
                 name = tool.get("Tool Name", "Unnamed Tool")
                 url = (tool.get("Github URL") or "").strip()
                 description = tool.get("Description", "No description provided.")
-                event = tool.get("Event", "Unknown")
                 tracks = tool.get("Tracks", [])
                 speakers_raw = tool.get("Speakers", [])
                 speakers = speakers_raw if isinstance(speakers_raw, list) else [str(speakers_raw)]
@@ -134,26 +136,23 @@ for location in sorted(os.listdir(ROOT_DIR)):
                 # Determine category and style
                 category, color = determine_category(tracks)
                 speaker_tags = " ".join([badge(s, "informational") for s in speakers])
-                event_tag = badge(event, "black" if "USA" in event else "blue")
                 category_tag = badge(f"Category: {category}", color)
                 link_line = f"🔗 **Link:** [{name}]({url})" if url else "🔗 **Link:** Not Available"
 
                 # Final tool block
-                entry = f"""<details><summary><strong>{name}</strong></summary>\n\n{loc_year_badge} {event_tag} {category_tag} {speaker_tags}\n\n{link_line}  \n📝 **Description:** {description}\n\n</details>\n"""
+                entry = f"""<details><summary><strong>{name}</strong></summary>\n\n{loc_year_badge} {category_tag} {speaker_tags}\n\n{link_line}  \n📝 **Description:** {description}\n\n</details>\n"""
                 tools_by_category[category].append(entry)
 
         # -------------------------------
         # 📄 Generate Sub README per Year
         # -------------------------------
-        # Color code badges by region (optional)
- 
         subreadme = [
             f"# {location} {year}",
             "---",
             f"📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal {year}** event held in **{location}**.",
             "Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.",
             "",
-            "## 📚 Table of Contents"
+            "## 📚 Contents"
         ]
 
         for cat in sorted(tools_by_category):
@@ -163,7 +162,6 @@ for location in sorted(os.listdir(ROOT_DIR)):
         for cat, tools in tools_by_category.items():
             subreadme.append(f"## {cat}")
             for tool_block in tools:
-                tool_block = tool_block.replace(f"{event_tag} ", "")  # Avoid repeating event tag per tool
                 subreadme.append(tool_block)
             subreadme.append("---")
 
@@ -176,11 +174,11 @@ for location in sorted(os.listdir(ROOT_DIR)):
 # -------------------------------
 main_readme.append("---")
 main_readme.extend([
-    "## 🧩 Contributing",
+    "## Contributing",  # Fixed to match ToC
     "We welcome community contributions to make this list better!",
     "",
-    "### 🛠 How to Contribute:",
-    "- 📁 Tools are grouped by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside `tools/`.",
+    "🛠 How to Contribute:",  # Fixed to match ToC
+    "- 📁 Tools are grouped by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside `tools/`. ",
     "- 🧠 Inside each year's folder, tools are organized by **track categories** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.",
     "- 📝 Each tool is defined by a structured `.json` file including:",
     "  - Tool Name",
@@ -189,7 +187,7 @@ main_readme.extend([
     "  - Tracks",
     "  - Speaker(s)",
     "",
-    "### 📄 To Add a Tool:",
+    "📄 To Add a Tool:",  # Fixed to match ToC
     "1. Create a JSON file inside the appropriate folder:",
     "   ```",
     "   tools/{LOCATION}/{YEAR}/tool-name.json",
@@ -198,10 +196,7 @@ main_readme.extend([
     "3. Submit a pull request.",
     "",
     "> ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.",
-    "---",
-    "## 📄 License",
-    "[CC0 1.0](LICENSE)",
-    "---",
+    "\n",
 ])
 
 # 💾 Write Main README
