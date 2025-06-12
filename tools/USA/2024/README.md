@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2024** event held in **USA**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec](#🌐-webappsec)
@@ -403,7 +403,7 @@ During this presentation, I will provide an in-depth exploration of GraphRunner'
 
 ![USA 2024](https://img.shields.io/badge/USA%202024-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ofri Ouzan](https://img.shields.io/badge/Ofri%20Ouzan-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [HardeningMeter](https://github.com/OfriOuzan/HardeningMeter)  
 📝 **Description:** None
 
 </details>

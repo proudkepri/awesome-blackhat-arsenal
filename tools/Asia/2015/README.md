@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2015** event held in **Asia**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [🌐 Web/AppSec](#🌐-webappsec)
 - [📱 Mobile Security](#📱-mobile-security)
 - [🔴 Red Teaming](#🔴-red-teaming)
@@ -34,7 +34,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2015](https://img.shields.io/badge/Asia%202015-green) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Keith Lee](https://img.shields.io/badge/Keith%20Lee-informational) ![Michael Gianarakis](https://img.shields.io/badge/Michael%20Gianarakis-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [MetasploitHelper](https://github.com/milo2012/metasploitHelper)  
 📝 **Description:** Metasploit is widely used by penetration-testers during pen-test. They contain a lot of useful exploits that can be used during penetration tests. However, it is a painful task to search for related exploits after running a Nmap scan. It is possible that we could forget to use a potential exploit that could get us a shell on the remote system. There are two main types of exploits in Metasploit that we need to consider: Metasploit modules that target URI and modules that target specific ports. I developed MetasploitHelper so that we can bridge Nmap and Metasploit modules. This tool is meant to save a lot of time looking up exploits during penetration tests.
 
 </details>
@@ -92,7 +92,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2015](https://img.shields.io/badge/Asia%202015-green) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Idan Revivo](https://img.shields.io/badge/Idan%20Revivo-informational) ![Ofer Caspi](https://img.shields.io/badge/Ofer%20Caspi-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [CuckooDroid (March 26)](https://github.com/idanr1986/cuckoo-droid)  
 📝 **Description:** To combat the growing problem of Android malware, we present a new solution based on the popular open source framework Cuckoo Sandbox to automate the malware investigation process. Our extension enables the use of Cuckoo's features to analyze Android malware and provides new functionality for dynamic and static analysis.Our framework is extensible and modular, allowing the use of new, as well as existing, tools for custom analysis.The main capabilities of our Cuckoo Android Extension include:Dynamic Analysis - based on Dalvik API hookingStatic Analysis - Integration with AndroguardEmulator Detection PreventionInfrastructure options:Nested VMs for ARM Emulation and VMISupports Android Emulator or Physical DevicesExamples of well-known malware will be used to demonstrate the framework capabilities and its usefulness in malware analysis.
 
 </details>
@@ -101,7 +101,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2015](https://img.shields.io/badge/Asia%202015-green) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Idan Revivo](https://img.shields.io/badge/Idan%20Revivo-informational) ![Ofer Caspi](https://img.shields.io/badge/Ofer%20Caspi-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [CuckooDroid (March 27)](https://github.com/idanr1986/cuckoodroid-2.0)  
 📝 **Description:** To combat the growing problem of Android malware, we present a new solution based on the popular open source framework Cuckoo Sandbox to automate the malware investigation process. Our extension enables the use of Cuckoo's features to analyze Android malware and provides new functionality for dynamic and static analysis.Our framework is extensible and modular, allowing the use of new, as well as existing, tools for custom analysis.The main capabilities of our Cuckoo Android Extension include:Dynamic Analysis - based on Dalvik API hookingStatic Analysis - Integration with AndroguardEmulator Detection PreventionInfrastructure options:Nested VMs for ARM Emulation and VMISupports Android Emulator or Physical DevicesExamples of well-known malware will be used to demonstrate the framework capabilities and its usefulness in malware analysis.
 
 </details>
@@ -112,7 +112,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2015](https://img.shields.io/badge/Asia%202015-green) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Keith Lee](https://img.shields.io/badge/Keith%20Lee-informational) ![Michael Gianarakis](https://img.shields.io/badge/Michael%20Gianarakis-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Nmap2Nessus](https://github.com/milo2012/nmap2nessus)  
 📝 **Description:** Nessus is an awesome tool for vulnerability assessment.For vulnerabilities assessments, sometimes it is useful to run Nmap along side with Nessus. Nmap output can be easily manipulated and the data can be used as input for other tools.Most of the time, we are often faced with tight deadlines. Running the same scan using Nmap and then with Nessus could take up a lot of time and generate a large amount of network traffic.What this tool does is parse a NMAP .xml file, extract ports and IP addresses from the file, and automatically launch a Nessus scan using this information (instead of having to scan the whole network and all the ports again). This results in a faster scan.The tool then queries Nessus for job status and automatically saves the report locally when done.The tool also parses the Nessus reports and extracts important findings from the report so that you don't have to read through the whole report (you can but you don't have to).If you are using VMware Fusion/Workstation, you can use the VMrun command to automatically spin up a VM containing Nessus in a headless mode, runs Nessus scan and shuts down the VM when done.
 
 </details>
@@ -121,7 +121,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2015](https://img.shields.io/badge/Asia%202015-green) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Preeti Subramanian](https://img.shields.io/badge/Preeti%20Subramanian-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [SecPod Saner](https://github.com/UnicodeDecodeError/SecPodSaner)  
 📝 **Description:** A free vulnerability scanner and compliance scanner with remediation.Most malware makes use of loopholes in the system and targets desktops and end-user applications. The anti-malware products that are available in the market focus on cleaning an already infected system based on known malware signatures. It is reported that 67% of malware is unnoticed by anti-virus or anti-malware products because of their polymorphic nature.Hardening the security posture of the system, knowing the loopholes, and applying fixes is a very effective and proven defense system. Although prevalent in the enterprise segment, home and mobile users do not get the benefit of effective vulnerability and configuration management.SecPod Saner is a lightweight, easy to use, enterprise-grade security solution for proactively assessing and securing your personal computer. It identifies security loopholes, misconfiguration, and remediates to ensure systems remain secure.
 
 </details>

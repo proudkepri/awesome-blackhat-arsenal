@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2019** event held in **Europe**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [🌐 Web/AppSec](#🌐-webappsec)
 - [🌐 Web/AppSec or Red Teaming](#🌐-webappsec-or-red-teaming)
@@ -211,7 +211,7 @@ Octopus is designed to be stealthy and covert while communicating with the C2, a
 
 ![Europe 2019](https://img.shields.io/badge/Europe%202019-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Yuma Kurogome](https://img.shields.io/badge/Yuma%20Kurogome-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [AVCLASS++: Yet Another Massive Malware Labeling Tool](https://github.com/killvxk/avclassplusplus)  
 📝 **Description:** Addressing malware threats requires constant efforts to create and maintain a dataset. Especially, labeling malware samples is a vital part of shepherding a dataset. AVCLASS, a tool which takes as input VirusTotal reports and returns labels that aggregates scan results of multiple anti-viruses, is one of the most well-used oracles in both academia and industry.
 
 However, AVCLASS often suffers from the following drawbacks. First, AVCLASS is prone to fail labeling samples that have just been posted to VirusTotal because only a few anti-viruses give labels to such samples. An inconvenient truth: when we provided AVCLASS with 20,000 VirusTotal reports, half of them could not be labeled. Second, AVCLASS cannot determine if the label is randomly generated (as with domain generation algorithms of malware) or not. Some anti-viruses that VirusTotal has worked with after AVCLASS released were labeled with the DGA, resulting in a biased label. Because of them, we are forced to make a lot of manual, tedious intervention in malware labeling (otherwise, we need to drop samples with inconsistent labels from the dataset).

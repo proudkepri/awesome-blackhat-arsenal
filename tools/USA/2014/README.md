@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2014** event held in **USA**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec](#🌐-webappsec)
@@ -29,7 +29,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![None](https://img.shields.io/badge/None-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [NFCulT](https://github.com/Singularity9)  
 📝 **Description:** NFCulT stands for NFC ultralight Toolkit. It is the ultimate open source Android app that will let you research and exploit vulnerabilities in ultralight implementations.
 
 </details>
@@ -78,7 +78,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![None](https://img.shields.io/badge/None-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [BeEF](https://github.com/theherobrinehunter/Mod)  
 📝 **Description:** A bag of fresh and juicy 0days is certainly something you would love to get
 as a Christmas present, but it would probably be just a dream you had one of those drunken nights.
 
@@ -115,7 +115,7 @@ as a Christmas present, but it would probably be just a dream you had one of tho
 
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![None](https://img.shields.io/badge/None-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Ice-Hole](https://github.com/jasonrohrer/OneLifeData7/issues/536)  
 📝 **Description:** Ice-Hole is a phishing awareness email program. It is designed to help security analysts/system administrators keep track and test end users. The tool can be used in conjunction with various third party software, like SET, for further leverage. 1.7 has some new features and enhancements like IRC triggers, integrating with a new portal feature, automatic times, dates, and sending reports on a schedule.
 
 </details>
@@ -261,7 +261,7 @@ as a Christmas present, but it would probably be just a dream you had one of tho
 
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![None](https://img.shields.io/badge/None-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Taintless](https://github.com/uswitch/nidhogg/issues/24)  
 📝 **Description:** Research in taint tracking and taint inference is hot in the scientific community. We have studied all tools and ideas developed for automated SQL injection prevention using scientific methods, and in an attempt to evaluate them, broken them all down.
 
 </details>

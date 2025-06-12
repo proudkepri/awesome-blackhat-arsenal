@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2016** event held in **Asia**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [🌐 Web/AppSec](#🌐-webappsec)
 - [🌐 Web/AppSec or Red Teaming](#🌐-webappsec-or-red-teaming)
 - [📱 Mobile Security](#📱-mobile-security)
@@ -87,7 +87,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2016](https://img.shields.io/badge/Asia%202016-green) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![Chen Yexuan](https://img.shields.io/badge/Chen%20Yexuan-informational) ![Tang Zhushou](https://img.shields.io/badge/Tang%20Zhushou-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Janus](https://github.com/deepseek-ai/Janus)  
 📝 **Description:** Janus is feedback-driven, interactive Android security analysis platform that facilitates a collection of advanced security analysis tools with the capabilities from vulnerability discovery to malicious application detection. Its main purpose is to enable large scale Android application security analysis by integrating automated, customizable analysis results and human interventions.Specifically, Janus works as follows. First, Janus leverages lightweight malware scanners, similarity detection tools, and vulnerability detection tools to help researchers diagnose whether a given Android application is malicious or vulnerable.Next, Janus provides a set of tools to perform more fine-grained and heavier analyses, including dynamic taint analysis, program slicing, and machine learning, etc. In particular, security researchers are involved in this phase. By integrating these automated analyses and human interventions, Janus will confirm the detection results, filter false positives, and also extract the features of the application. These features will be used to guide subsequent analyses to quickly find similar vulnerabilities or malicious applications.We will demonstrate Janus with a number of real world malicious and vulnerable applications.
 
 </details>
@@ -98,7 +98,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2016](https://img.shields.io/badge/Asia%202016-green) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Zhang Zuyou](https://img.shields.io/badge/Zhang%20Zuyou-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Pocsuite](https://github.com/knownsec/pocsuite3)  
 📝 **Description:** Pocsuite is an open-source remote vulnerability testing framework developed by the Knownsec Security Team.Written in Python and supported both validation and exploitation two plugin-invoked modes, Pocsuite could import batch targets from files and test them against multiple exploit-plugins in advance.There are two ways to work with Pocsuite: configuring exploit-required arguments and running in console-based modes; and handling the output from steps in interactive modes. Besides, it could display output in a human-friendly graph providing more useful information for pentesters.Like Metasploit, it is a development kit for pentesters to develop their own exploits. Users could utilize some auxiliary modules packaged in Pocsuite to extend their exploit functions or integrate Pocsuite to develop other vulnerability assessment tools.At last, Pocsuite is also an extremely useful tool to integrate Seebug and ZoomEye APIs in a collaborative way. Vulnerability assessment can be done automatically and effectively by searching targets through ZoomEye and acquiring PoC scripts from Seebug or locally.
 
 </details>

@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2020** event held in **USA**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [🌐 Web/AppSec or Red Teaming](#🌐-webappsec-or-red-teaming)
 - [🔍 OSINT](#🔍-osint)
@@ -247,7 +247,7 @@ The promotional video: https://youtu.be/0XupD3PAbuo
 
 ![USA 2020](https://img.shields.io/badge/USA%202020-black) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Tim Frazier](https://img.shields.io/badge/Tim%20Frazier-informational) ![Dave Herrald](https://img.shields.io/badge/Dave%20Herrald-informational) ![Kyle Champlin](https://img.shields.io/badge/Kyle%20Champlin-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [ATT&CK Simulator](https://github.com/mitre-attack/attack-navigator)  
 📝 **Description:** This project provides a set of tooling for repeatedly executing and detecting adversary techniques in order to improve detection engineering. This project uses the MITRE ATT&CK Enterprise techniques taxonomy and the MITRE ATT&CK navigator web app. Once set up, you will be able to repeatedly execute specific techniques, observe the resulting events, and refine your detection rules and methodology.
 
 </details>
@@ -609,7 +609,7 @@ Whether you plan on executing phishing campaigns deep on the inside of the perim
 
 ![USA 2020](https://img.shields.io/badge/USA%202020-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Rohan Durve](https://img.shields.io/badge/Rohan%20Durve-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Dynamic Labs: Windows & Active Directory Exploitation](https://github.com/Hacking-Lab/dpl-windows-template)  
 📝 **Description:** If you are after red-team training, there are multiple excellent courses and online resources for practising adversary simulation. That's not the primary motivation behind Alfa labs.
 
 Alfa labs allows:
@@ -826,7 +826,7 @@ Designing an OSINT honeypot presents a novel challenge due to the complexity and
 
 ![USA 2020](https://img.shields.io/badge/USA%202020-black) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Greg Johnson](https://img.shields.io/badge/Greg%20Johnson-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Token-Hunter & Gitrob: Hunting for Secrets](https://github.com/jack51706/token-hunter)  
 📝 **Description:** Secrets like API tokens, encryption keys, and passwords are a keystone in the development world. They facilitate important functionality not only in the software that developers build, but also in the deployment, maintenance, integration, and security of both closed and open-source projects. Many companies providing services on the internet offer API tokens in multiple flavors that allow interaction with their systems, as does GitLab. Token-Hunter and Gitrob are complementary tools developed, augmented, and heavily used by GitLab's red team to support their engagements and, most importantly, find those exposed secrets and demonstrate their abuse!
 
 </details>

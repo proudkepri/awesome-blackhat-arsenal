@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2023** event held in **Canada**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec](#🌐-webappsec)
@@ -28,7 +28,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![datalocaltmp .](https://img.shields.io/badge/datalocaltmp%20.-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [A Ghidra Visualization is worth a Thousand GDB breakpoints](https://github.com/boblone19/OWASP-MSTG/blob/master/Document/0x08-Testing-Tools.md)  
 📝 **Description:** None
 
 </details>
@@ -73,7 +73,7 @@ Furthermore, I will be releasing a new version, one that is currently only used 
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![datalocaltmp .](https://img.shields.io/badge/datalocaltmp%20.-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Enhancing Vulnerability Research through the Use of Virtual Reality Workspaces](https://github.com/MindaugasBernatavicius/notes/blob/master/notes.txt)  
 📝 **Description:** 
 
 </details>
@@ -149,7 +149,7 @@ Grove enables teams to collect security related events from their vendors in a r
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Parbati Manna](https://img.shields.io/badge/Parbati%20Manna-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [ParseAndC 3.0 – Parse Everything Everywhere All At Once](https://github.com/intel/ParseAndC)  
 📝 **Description:** None
 
 </details>
@@ -242,7 +242,7 @@ Attendees who frequently sandbox malware, analyze TTPs, or evaluate detection ca
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Rotem Salinas](https://img.shields.io/badge/Rotem%20Salinas-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Windows On ARM Rootkit Detector](https://github.com/cyberark/woarkd)  
 📝 **Description:** 
 
 </details>
@@ -253,7 +253,7 @@ Attendees who frequently sandbox malware, analyze TTPs, or evaluate detection ca
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Waqur Ahmed](https://img.shields.io/badge/Waqur%20Ahmed-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Artificial Intelligence Phishing Email Detector](https://github.com/ChanChiChoi/awesome-Federated-Learning)  
 📝 **Description:** None
 
 </details>
@@ -291,7 +291,7 @@ Attendees who frequently sandbox malware, analyze TTPs, or evaluate detection ca
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Pedram Hayati](https://img.shields.io/badge/Pedram%20Hayati-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Attack & Defence AppSec Wargame](https://github.com/rack/rack-attack)  
 📝 **Description:** None
 
 </details>
@@ -320,7 +320,7 @@ Attendees who frequently sandbox malware, analyze TTPs, or evaluate detection ca
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Jacob Baines](https://img.shields.io/badge/Jacob%20Baines-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [go-exploit: An Exploit Framework for Go](https://github.com/j-baines)  
 📝 **Description:** None
 
 </details>
@@ -346,7 +346,7 @@ PowerGuest allows gaining unauthorized access to sensitive business data and cap
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Rohit Kumar](https://img.shields.io/badge/Rohit%20Kumar-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [HAWK Eye - PII & Secret Detection tool for your Servers, Database, Filesystems, Cloud Storage Services](https://github.com/rohitcoder/hawk-eye)  
 📝 **Description:** 
 
 </details>

@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2025** event held in **USA**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec](#🌐-webappsec)
@@ -78,7 +78,7 @@ This session will introduce real-world attack scenarios enabled by Minino, demon
 
 ![USA 2025](https://img.shields.io/badge/USA%202025-black) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Ian Webster](https://img.shields.io/badge/Ian%20Webster-informational) ![Michael D'Angelo](https://img.shields.io/badge/Michael%20D'Angelo-informational) ![Vanessa Sauter](https://img.shields.io/badge/Vanessa%20Sauter-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Promptfoo](https://github.com/promptfoo/promptfoo)  
 📝 **Description:** Promptfoo is an offensive security tool designed to test applications built on large language models (LLMs). Leveraging the latest adversarial ML research, Promptfoo uses ablated, fine-tuned models to generate unique, adversarial payloads to find and exploit more than 50 types of vulnerabilities in LLM applications. More than 60,000 developers use Promptfoo, including at major companies like Shopify, OpenAI, Anthropic, Twilio, and DoorDash.
 
 Promptfoo is unique in its capabilities because it uses specialized adversarial agents trained to probe specific risks in AI applications. Rather than relying on generic jailbreaks or known exploits, these agents analyze your application's unique attack surface - its specific use cases, integrated tools, data sources, and security boundaries. Promptfoo then generates targeted probes to identify vulnerabilities in your applications.

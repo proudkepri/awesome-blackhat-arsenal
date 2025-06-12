@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2022** event held in **USA**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec](#🌐-webappsec)
@@ -450,7 +450,7 @@ Overview of the tool
 
 ![USA 2022](https://img.shields.io/badge/USA%202022-black) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Alan Cao](https://img.shields.io/badge/Alan%20Cao-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Automating Fuzzable Target Discovery with Static Analysis](https://github.com/ex0dus-0x/fuzzable)  
 📝 **Description:** Vulnerability researchers conducting security assessments on software will often harness the capabilities of coverage-guided fuzzing through powerful tools like AFL++ and libFuzzer. This is important as it automates the bughunting process and reveals exploitable conditions in targets quickly. However, when encountering large and complex codebases or closed-source binaries, researchers have to painstakingly dedicate time to manually audit and reverse engineer them to identify functions where fuzzing-based exploration can be useful.
 
 Fuzzable is a framework that integrates both with C/C++ source code and binaries to assist vulnerability researchers in identifying function targets that are viable for fuzzing. This is done by applying several static analysis-based heuristics to pinpoint risky behaviors in the software and the functions that executes them. Researchers can then utilize the framework to generate basic harness templates, which can then be used to hunt for vulnerabilities, or to be integrated as part of a continuous fuzzing pipeline, such as Google's oss-fuzz.
@@ -974,7 +974,7 @@ The integration of GPT-3, deep learning-based language models to produce human-l
 
 ![USA 2022](https://img.shields.io/badge/USA%202022-black) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Amine Amri](https://img.shields.io/badge/Amine%20Amri-informational) ![Daniel dos Santos](https://img.shields.io/badge/Daniel%20dos%20Santos-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Exploiting & Securing Trains](https://github.com/offensive-security/exploitdb)  
 📝 **Description:** None
 
 </details>

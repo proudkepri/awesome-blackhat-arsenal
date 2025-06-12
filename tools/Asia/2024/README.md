@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2024** event held in **Asia**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec](#🌐-webappsec)
@@ -485,7 +485,7 @@ Moonshot is designed with a simple, intuitive, and interactive interface that wo
 
 ![Asia 2024](https://img.shields.io/badge/Asia%202024-green) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Season Cherian](https://img.shields.io/badge/Season%20Cherian-informational) ![Vishnu Dev](https://img.shields.io/badge/Vishnu%20Dev-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [R0fuzz](https://github.com/AshwAthi8/R0fuzz)  
 📝 **Description:** Industrial control systems (ICS) are critical to national infrastructure, demanding robust security measures. "R0fuzz" is a collaborative fuzzing tool tailored for ICS environments, integrating diverse strategies to uncover vulnerabilities within key industrial protocols such as Modbus, Profinet, DNP3, OPC, BACnet, etc. This innovative approach enhances ICS resilience against emerging threats, providing a comprehensive testing framework beyond traditional fuzzing methods.
 
 </details>
@@ -523,7 +523,7 @@ Moonshot is designed with a simple, intuitive, and interactive interface that wo
 
 ![Asia 2024](https://img.shields.io/badge/Asia%202024-green) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![MARCO LIBERALE](https://img.shields.io/badge/MARCO%20LIBERALE-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [PASTEBOMB](https://github.com/marco-liberale/PasteBomb)  
 📝 **Description:** None
 
 </details>
@@ -691,7 +691,7 @@ This implementation follows two important principles
 
 ![Asia 2024](https://img.shields.io/badge/Asia%202024-green) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Ri-Sheng Tan](https://img.shields.io/badge/Ri-Sheng%20Tan-informational) ![George Chen](https://img.shields.io/badge/George%20Chen-informational) ![Chee Peng Tan](https://img.shields.io/badge/Chee%20Peng%20Tan-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [DefaceIntel-Visionary](https://github.com/rtan0/DefaceIntel-Visionary-LLM-Powered-Shield-with-OCR-Acuity)  
 📝 **Description:** The purpose of this project is to develop a robust Web Defacement Detection tool that monitors websites for signs of defacement, an attack where the visual appearance of a website is altered by unauthorized users.
 
 The tool aims to promptly provide alert if a website content is manipulated, which is often a result of cyber attacks such as those carried out by hacktivists.

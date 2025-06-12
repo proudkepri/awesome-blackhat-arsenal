@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2024** event held in **Canada**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec or Red Teaming](#🌐-webappsec-or-red-teaming)
@@ -26,7 +26,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Ezzeldin Tahoun](https://img.shields.io/badge/Ezzeldin%20Tahoun-informational) ![Lynn Hamida](https://img.shields.io/badge/Lynn%20Hamida-informational) ![Nidheesh Panchal](https://img.shields.io/badge/Nidheesh%20Panchal-informational) ![Kevin Shi](https://img.shields.io/badge/Kevin%20Shi-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Automatically Map & Enrich ALL Alerts, Events & Logs with MITRE Attack Techniques](https://github.com/BreezeWhite/Music-Transcription-with-Semantic-Segmentation)  
 📝 **Description:** Using Natural Language Processing models, enrich any alert with its relevant attack techniques.
 The model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise.
 In real time this model can save your operations endless hours of tagging incidents with their mitre techniques.
@@ -37,7 +37,7 @@ In real time this model can save your operations endless hours of tagging incide
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Helvio Junior](https://img.shields.io/badge/Helvio%20Junior-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [AVSniper](https://github.com/helviojunior)  
 📝 **Description:** 
 
 </details>
@@ -46,7 +46,7 @@ In real time this model can save your operations endless hours of tagging incide
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Richard Smith](https://img.shields.io/badge/Richard%20Smith-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Azure Unified Audit Log Mail Item Extractor'](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/L-SM-TH.md)  
 📝 **Description:** 
 
 </details>
@@ -55,7 +55,7 @@ In real time this model can save your operations endless hours of tagging incide
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Ezzeldin Tahoun](https://img.shields.io/badge/Ezzeldin%20Tahoun-informational) ![Lynn Hamida](https://img.shields.io/badge/Lynn%20Hamida-informational) ![Nidheesh Panchal](https://img.shields.io/badge/Nidheesh%20Panchal-informational) ![Kevin Shi](https://img.shields.io/badge/Kevin%20Shi-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Continuously Correlate & Contextualize ALL Alerts, Events & Logs](https://github.com/diazero-technologies/inopli-correlator)  
 📝 **Description:** Using correlation and clustering models, turn tons of alerts into mitre attack flows.
 The model finds the attack flows, using its ability to evaluate alerts temporal proximity, kill chain sequentiality, shared entities and similar attributes to other alerts of interest, among others.
 In real time this model can save your operations endless hours of correlating incidents and finding noteworthy attack flows, that if not detected in time would lead to breaches.
@@ -105,7 +105,7 @@ Join us to explore their features, real-world use cases, and how they enhance fo
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Cody Thomas](https://img.shields.io/badge/Cody%20Thomas-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Mythic](https://github.com/its-a-feature)  
 📝 **Description:** None
 
 </details>
@@ -114,7 +114,7 @@ Join us to explore their features, real-world use cases, and how they enhance fo
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Tarek Ahmed](https://img.shields.io/badge/Tarek%20Ahmed-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [ShellSilo](https://github.com/nixpal/shellsilo)  
 📝 **Description:** None
 
 </details>
@@ -123,7 +123,7 @@ Join us to explore their features, real-world use cases, and how they enhance fo
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: Others](https://img.shields.io/badge/Category:%20Others-lightgrey) ![Ryan Mast](https://img.shields.io/badge/Ryan%20Mast-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [The Perfect BLEnd: Reversing a Bluetooth-Controlled Smart Blender for Better Smoothies](https://gist.github.com/pmarreck/28b3049a1a70b8b4f2eaff4466d0c76a?Ec01Xu=pSSNglnH)  
 📝 **Description:** 
 
 </details>
@@ -143,7 +143,7 @@ Join us to explore their features, real-world use cases, and how they enhance fo
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Pedram Hayati](https://img.shields.io/badge/Pedram%20Hayati-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [AI Wargame](https://github.com/pedram-mohajer)  
 📝 **Description:** None
 
 </details>
@@ -152,7 +152,7 @@ Join us to explore their features, real-world use cases, and how they enhance fo
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Paul Clark](https://img.shields.io/badge/Paul%20Clark-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Hands-on RF Hacking: Your Table is (always) Ready](https://github.com/prisma/prisma/issues/7234)  
 📝 **Description:** None
 
 </details>
@@ -201,7 +201,7 @@ https://blackdagger.readthedocs.io/en/latest/
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Parth Patel](https://img.shields.io/badge/Parth%20Patel-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Graph for Understanding Artifact Composition (GUAC)](https://github.com/ossf/tac/issues/172)  
 📝 **Description:** Graph for Understanding Artifact Composition (GUAC) is an open-source dependency management and security tool that looks across all first-party, third-party, and open-source software, aggregating the software security metadata into a high-fidelity graph database to locate, store, analyze, and correlate software artifact data.
 
 The frequency of software attacks and increased use of open-source tooling have created a significant lack of confidence in the integrity and security of the software supply chain. Securing it can be a real headache when dealing with hundreds of pieces of software each with its own hundreds of dependencies and new vulnerabilities being discovered each day. GUAC responds by being the source of truth. GUAC can provide developers and security teams with a shared understanding of software knowledge gaps, compliance, and threat detection. It also is an effective tool for managing third-party risk and incident response.
@@ -287,7 +287,7 @@ In summary, our Synergetic Security Suite represents a paradigm shift in securit
 
 ![Canada 2024](https://img.shields.io/badge/Canada%202024-purple) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Bleon Proko](https://img.shields.io/badge/Bleon%20Proko-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Nebula - 3 years of kicking *aaS and taking usernames](https://gist.github.com/kunalj101/ad1d9c58d338e20d09ff26bcc06c4235)  
 📝 **Description:** None
 
 </details>

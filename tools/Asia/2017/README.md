@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2017** event held in **Asia**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [📱 Mobile Security](#📱-mobile-security)
 - [🔍 OSINT](#🔍-osint)
 - [🔴 Red Teaming](#🔴-red-teaming)

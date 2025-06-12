@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2014** event held in **Europe**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [🌐 Web/AppSec](#🌐-webappsec)
 - [🔴 Red Teaming / AppSec](#🔴-red-teaming-appsec)
 - [🔵 Blue Team & Detection](#🔵-blue-team-detection)

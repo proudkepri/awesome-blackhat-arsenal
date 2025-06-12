@@ -3,7 +3,7 @@
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2023** event held in **USA**.
 Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
-## 📚 Table of Contents
+## 📚 Contents
 - [Others](#others)
 - [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous-lab-tools)
 - [🌐 Web/AppSec](#🌐-webappsec)
@@ -259,7 +259,7 @@ Each demo will be followed by practical recommendations for mitigating these att
 
 ![USA 2023](https://img.shields.io/badge/USA%202023-black) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Paul Clark](https://img.shields.io/badge/Paul%20Clark-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Hands-on RF Hacking: Your Table is (always) Ready](https://gist.github.com/Potherca/b6a6676a84b51c8200d0673a5b4a87c5)  
 📝 **Description:** None
 
 </details>
@@ -401,7 +401,7 @@ Understanding the data flow results in a significant improvement of test coverag
 
 ![USA 2023](https://img.shields.io/badge/USA%202023-black) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Tushar Kulkarni](https://img.shields.io/badge/Tushar%20Kulkarni-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [vAPI: Vulnerable Adversely Programmed Interface](https://github.com/roottusk)  
 📝 **Description:** None
 
 </details>
@@ -910,7 +910,7 @@ During the arsenal presentation, we will make CLExtract open source and demonstr
 
 ![USA 2023](https://img.shields.io/badge/USA%202023-black) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Michael Messner](https://img.shields.io/badge/Michael%20Messner-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [EMBA – From Firmware to Exploit](https://github.com/e-m-b-a/emba/wiki/Referring-sites-and-talks)  
 📝 **Description:** 
 
 </details>
@@ -966,7 +966,7 @@ In this talk, we will show our method and present one such universal kernel hard
 
 ![USA 2023](https://img.shields.io/badge/USA%202023-black) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Weichao Zhou](https://img.shields.io/badge/Weichao%20Zhou-informational)
 
-🔗 **Link:** Not Available  
+🔗 **Link:** [Safe Scan&C2 Tool](https://github.com/aQaTL/sane-scan)  
 📝 **Description:** In the process of security attack and defense, as well as penetration testing, there are two prominent issues. First, the attack scanning is often detected by the security systems of the defense side, resulting in the scanning IP being blocked. Second, when the defense side is controlled and assets are connected back to the command and control (C2) server, it may be detected by security devices, leading to countermeasures against the penetration testers. In order to safely and conveniently conduct asset detection during the attack and defense process, as well as secure connection back to the controlled assets on the defense side, we have improved the Kademlia protocol and developed a distributed hash table (DHT) technology. We have also developed a networking tool that consists of a large number of Internet nodes, which dynamically updates IDs and node tree structures at regular intervals. This allows each session to initiate requests from a different node during the scanning process, preventing IP blocking due to high-frequency scanning. Additionally, during the controlled asset's connection back to the C2 server, nodes are randomly selected based on user-selected hop count, effectively preventing penetration testers from being traced, thus improving the penetration testing process.
 
 </details>
